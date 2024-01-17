@@ -1,36 +1,25 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
-  <title>
-    404 - Page not found
-  </title>
-  <meta name="description"
-        content="Deze pagina bestaat niet. Heel jammer allemaal."/>
-  <meta name="keywords" content=""/>
-  <meta name="author" content="Jeanine en Ruben "/>
-  <link rel="stylesheet" href="https://unpkg.com/tailwindcss@2.2.19/dist/tailwind.min.css"/>
-  <style>
-  .bg-primary {
-    background-color: #1478ce;
-  }
+---
+permalink: /404.html
+layout: default
+---
 
-  @font-face {
-    font-family: Poppins;
-    src: url("fonts/Poppins-Regular.ttf") format("opentype");
+<style type="text/css" media="screen">
+  .container {
+    margin: 10px auto;
+    max-width: 600px;
+    text-align: center;
   }
-
-  .font-sans-serif {
-    font-family: 'Poppins', sans-serif;
+  h1 {
+    margin: 30px 0;
+    font-size: 4em;
+    line-height: 1;
+    letter-spacing: -1px;
   }
 </style>
-</head>
-<body>
-<div class="min-h-screen flex flex-col justify-center items-center p-5 text-white bg-cover bg-center font-sans-serif"
-     style="background-image: url('images/background.jpg')">
-  <h1 class="text-5xl font-bold uppercase mb-4">404 Not found</h1>
-  <p class="text-5xl font-light">Deze pagina bestaat niet. Heel jammer allemaal.</p>
-</div></body>
-</html>
+
+<div class="container">
+  <h1>404</h1>
+
+  <p><strong>Page not found :(</strong></p>
+  <p>The requested page could not be found.</p>
+</div>
