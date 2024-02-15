@@ -12,22 +12,22 @@
   <link rel="stylesheet" href="https://unpkg.com/tailwindcss@2.2.19/dist/tailwind.min.css">
   <link rel="stylesheet" href="/style/style.css">
 </head>
-<body>
-<nav>
-  <div class="nav-container">
+<body class="text-primary font-serif bg-tan">
+<nav class="flex justify-center p-5">
+  <div class="py-2 border-b-2 border-primary text-xl font-semibold space-x-6">
     <a href="/">Home</a>
+    <a href="/programma">Programma</a>
+    <a href="/">Overnachten</a>
+    <a href="/">Help mee</a>
+    <a href="/">Vraag & Antwoord</a>
+    <a href="/" class="text-secondary">Aanmelden</a>
   </div>
 </nav>
 <article>
-  <div class="content content--full">
-    <h1>{{ page.title }}</h1>
-    <p class="text--large">
-      {{ content }}
-    </p>
-  </div>
+  {{ content }}
 </article>
-<footer>
-  © Ruben Smit
+<footer class="text-center p-5 mt-20">
+  © Ruben Smit 2024
 </footer>
 </body>
 </html>
