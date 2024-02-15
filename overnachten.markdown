@@ -1,9 +1,8 @@
 ---
-title: Programma · Bruiloft Jeanine en Ruben · 27-29 | 08 | 2024
-description: Drie dagen? Wat gaan jullie doen dan? Hier wat antwoorden op je vragen.
+title: Overnachten · Bruiloft Jeanine en Ruben · 27-29 | 08 | 2024
+description: Meer informatie over de overnachtingsmogelijkheden tijdens de bruiloft.
 layout: default
 ---
-
 {% capture card_content %}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla semper, risus non auctor vestibulum, felis orci euismod
 risus, id viverra tortor felis et lorem. Nunc nec est lorem. Pellentesque suscipit ligula quam, et ornare dui
@@ -11,17 +10,14 @@ consectetur eu. Duis lacinia dolor magna, id scelerisque libero fringilla at. Pe
 consectetur quam ac, fermentum eleifend lacus. Nam vel sollicitudin nisi, efficitur congue libero. Integer libero
 lectus, cursus eget purus id, finibus consequat purus. Nulla blandit maximus tortor, sed ultrices purus pretium vitae.
 Phasellus at aliquet leo. Sed sed mauris bibendum, molestie magna id, accumsan urna. Aenean pulvinar leo et nisl tempor,
-faucibus condimentum nunc auctor. Cras rhoncus faucibus augue, non vulputate arcu laoreet eu. 
+faucibus condimentum nunc auctor. Cras rhoncus faucibus augue, non vulputate arcu laoreet eu.
 
-{% include card_title.html title="Dinsdag 27 augustus" %}
+{% include card_title.html title="Camping" %}
 foo
 
-{% include card_title.html title="Woensdag 28 augustus" %}
-foo
-
-{% include card_title.html title="Donderdag 29 augustus" %}
+{% include card_title.html title="Accomodatie" %}
 foo
 
 {% endcapture %}
 
-{% include card.html title="Programma" content=card_content %}
+{% include card.html title="Overnachten" content=card_content %}

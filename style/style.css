@@ -6,12 +6,16 @@
     background-color: #2b2a60;
 }
 
+.border-primary {
+    border-color: #2b2a60;
+}
+
 .bg-tan {
     background-color: #ede2d8;
 }
 
-.border-primary {
-    border-color: #2b2a60;
+.border-tan {
+    border-color: #ede2d8;
 }
 
 .text-secondary {
