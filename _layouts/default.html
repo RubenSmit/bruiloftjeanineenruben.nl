@@ -14,13 +14,24 @@
 </head>
 <body class="text-primary font-serif bg-tan">
 <nav class="flex justify-center p-2">
-  <div class="border-b-2 py-2 border-primary text-xl font-semibold space-x-4">
-    <a href="/" class="p-2 hover:font-bold">Thuis</a>
-    <a href="/programma" class="p-2 hover:font-bold">Programma</a>
-    <a href="/overnachten" class="p-2 hover:font-bold">Overnachten</a>
-    <a href="/help_mee" class="p-2 hover:font-bold">Help mee</a>
-    <a href="/vraag_en_antwoord" class="p-2 hover:font-bold">Vraag & Antwoord</a>
-    <a href="/rsvp" class="p-2 hover:font-bold text-secondary">RSVP</a>
+  <div class="flex flex-col md:flex-row w-full md:w-auto border-b-2 border-primary text-xl font-semibold md:space-x-4">
+    <div class="w-full md:w-auto flex justify-between items-center">
+      <a href="/" class="p-2 hover:font-bold">Thuis</a>
+      <button class="md:hidden px-2 py-1 text-primary" onclick="toggleMenu(this)">
+        <span class="" data-menu="open">
+          <img src="/images/hamburger_icon.svg" alt="Open menu">
+        </span>
+        <span class="hidden" data-menu="close">
+          <img src="/images/x_icon.svg" alt="Sluit menu">
+        </span>
+      </button>
+    </div>
+    <a href="/programma" class="hidden md:inline p-2 hover:font-bold" data-menu="item">Programma</a>
+    <a href="/overnachten" class="hidden md:inline p-2 hover:font-bold" data-menu="item">Overnachten</a>
+    <a href="/help_mee" class="hidden md:inline p-2 hover:font-bold" data-menu="item">Help mee</a>
+    <a href="/vraag_en_antwoord" class="hidden md:inline p-2 hover:font-bold" data-menu="item">Vraag & Antwoord</a>
+    <a href="/rsvp" class="hidden md:inline p-2 hover:font-bold text-secondary" data-menu="item">RSVP</a>
+  </div>
   </div>
 </nav>
 <article>
@@ -30,4 +41,13 @@
   © Ruben Smit 2024
 </footer>
 </body>
+<script>
+  function toggleMenu(element) {
+    document.querySelectorAll('[data-menu="item"]').forEach(item => {
+      item.classList.toggle('hidden')
+    })
+    element.querySelector('[data-menu="open"]').classList.toggle('hidden')
+    element.querySelector('[data-menu="close"]').classList.toggle('hidden')
+  }
+</script>
 </html>

@@ -1,5 +1,6 @@
 .text-primary {
     color: #2b2a60;
+    fill: #2b2a60;
 }
 
 .bg-primary {
@@ -20,6 +21,10 @@
 
 .text-secondary {
     color: #cd6944;
+}
+
+.border-secondary {
+    border-color: #cd6944;
 }
 
 @font-face {
