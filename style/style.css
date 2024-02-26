@@ -27,6 +27,18 @@
     border-color: #cd6944;
 }
 
+.hover\:border-secondary:hover {
+    border-color: #cd6944;
+}
+
+.bg-secondary {
+    background-color: #cd6944;
+}
+
+.hover\:bg-secondary:hover {
+    background-color: #cd6944;
+}
+
 @font-face {
     font-family: Comorant;
     src: url("/fonts/CormorantSC-Light.ttf") format("opentype");
@@ -78,4 +90,11 @@ a {
 a:hover {
     font-weight: bold;
     color: #cd6944;
+}
+
+.timeline-deco:not(.hidden):nth-last-child(2) > .timeline-line {
+    display: none;
+}
+.timeline-deco:not(.hidden):nth-last-child(2) > .timeline-orb {
+    margin-left: 0;
 }

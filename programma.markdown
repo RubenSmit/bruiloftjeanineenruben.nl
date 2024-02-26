@@ -13,38 +13,45 @@ lectus, cursus eget purus id, finibus consequat purus. Nulla blandit maximus tor
 Phasellus at aliquet leo. Sed sed mauris bibendum, molestie magna id, accumsan urna. Aenean pulvinar leo et nisl tempor,
 faucibus condimentum nunc auctor. Cras rhoncus faucibus augue, non vulputate arcu laoreet eu. 
 
-{% include card_title.html title="Dinsdag 27 augustus" %}
+<div class="w-full mt-6 text-center">Bekijk het programma als:</div>
+<div class="w-full mt-2 flex justify-center">
+    <button class="py-2 px-4 border-t-2 border-b-2 border-l-2 rounded-l border-secondary bg-secondary text-white" data-timeline-button="alles" onclick="changeProgram('alles')">Allesgast (di-do)</button>
+    <button class="py-2 px-4 border-t-2 border-b-2 hover:bg-secondary hover:text-white hover:border-secondary border-primary" data-timeline-button="dag" onclick="changeProgram('dag')">Daggast (wo-do)</button>
+    <button class="py-2 px-4 border-t-2 border-b-2 border-r-2 rounded-r hover:bg-secondary hover:text-white hover:border-secondary border-primary" data-timeline-button="kerk" onclick="changeProgram('kerk')">Kerkgast (wo)</button>
+</div>
+
+{% include card_title.html title="Dinsdag 27 augustus" type="alles" %}
 {% capture dinsdag_items %}
-{% include timeline_item.html time="14:00" content="Aankomst alles-gasten" %}
-{% include timeline_item.html time="15:00" content="Koffie en Thee" %}
-{% include timeline_item.html time="16:00" content="Burgerlijk huwelijk" %}
-{% include timeline_item.html time="18:00" content="Diner" %}
-{% include timeline_last_item.html time="21:00" content="Borrel en stukjes" last=true %}
+{% include timeline_item.html time="14:00" content="Aankomst alles-gasten" type="alles" %}
+{% include timeline_item.html time="15:00" content="Koffie en Thee" type="alles" %}
+{% include timeline_item.html time="16:00" content="Burgerlijk huwelijk" type="alles" %}
+{% include timeline_item.html time="18:00" content="Diner" type="alles" %}
+{% include timeline_item.html time="21:00" content="Borrel en stukjes" last=true type="alles" %}
 {% endcapture %}
-{% include timeline.html items=dinsdag_items %}
+{% include timeline.html items=dinsdag_items type="alles" %}
 
-{% include card_title.html title="Woensdag 28 augustus" %}
+{% include card_title.html title="Woensdag 28 augustus" type="kerk" %}
 {% capture woensdag_items %}
-{% include timeline_item.html time="07:00 - 09:00" content="Ontbijt" %}
-{% include timeline_item.html time="10:00" content="Klaarmaken locatie" %}
-{% include timeline_item.html time="11:00" content="Inloop daggasten" %}
-{% include timeline_item.html time="12:00" content="Lunch" %}
-{% include timeline_item.html time="12:30" content="Groepsfoto's" %}
-{% include timeline_item.html time="13:30" content="Inloop kerkgasten" %}
-{% include timeline_item.html time="14:00" content="Kerkdienst" %}
-{% include timeline_item.html time="16:00" content="Receptie" %}
-{% include timeline_item.html time="17:45" content="Vertrek kerkgasten" %}
-{% include timeline_item.html time="18:00" content="Diner" %}
-{% include timeline_last_item.html time="21:00" content="Feest" %}
+{% include timeline_item.html time="07:00 - 09:00" content="Ontbijt" type="alles" %}
+{% include timeline_item.html time="10:00" content="Klaarmaken locatie" type="alles" %}
+{% include timeline_item.html time="11:00" content="Inloop daggasten" type="dag" %}
+{% include timeline_item.html time="12:00" content="Lunch" type="dag" %}
+{% include timeline_item.html time="12:30" content="Groepsfoto's" type="alles" %}
+{% include timeline_item.html time="13:30" content="Inloop kerkgasten" type="kerk" %}
+{% include timeline_item.html time="14:00" content="Kerkdienst" type="kerk" %}
+{% include timeline_item.html time="16:00" content="Receptie" type="kerk" %}
+{% include timeline_item.html time="17:45" content="Vertrek kerkgasten" type="kerk" %}
+{% include timeline_item.html time="18:00" content="Diner" type="dag" %}
+{% include timeline_item.html time="21:00" content="Feest" type="dag" %}
 {% endcapture %}
-{% include timeline.html items=woensdag_items %}
+{% include timeline.html items=woensdag_items type="kerk" %}
 
-{% include card_title.html title="Donderdag 29 augustus" %}
+{% include card_title.html title="Donderdag 29 augustus" type="dag" %}
 {% capture donderdag_items %}
-{% include timeline_item.html time="09:00 - 12:00" content="Brunch" %}
-{% include timeline_last_item.html time="12:00" content="Opruimen" %}
+{% include timeline_item.html time="09:00 - 12:00" content="Brunch" type="dag" %}
+{% include timeline_item.html time="12:00" content="Opruimen" type="dag" %}
 {% endcapture %}
-{% include timeline.html items=donderdag_items %}
+{% include timeline.html items=donderdag_items type="dag" %}
 
 {% endcapture %}
 

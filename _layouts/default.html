@@ -49,5 +49,35 @@
     element.querySelector('[data-menu="open"]').classList.toggle('hidden')
     element.querySelector('[data-menu="close"]').classList.toggle('hidden')
   }
+
+  function changeProgram(program) {
+    document.querySelectorAll('[data-timeline="alles"]').forEach(item => {
+      hideItem(item, program != 'alles');
+    })
+    document.querySelectorAll('[data-timeline="dag"]').forEach(item => {
+      hideItem(item, program == 'kerk');
+    })
+    selectButton(document.querySelector('[data-timeline-button="alles"]'), program == 'alles');
+    selectButton(document.querySelector('[data-timeline-button="dag"]'), program == 'dag');
+    selectButton(document.querySelector('[data-timeline-button="kerk"]'), program == 'kerk');
+  }
+
+  function hideItem(item, hide) {
+    if (hide) {
+      item.classList.add('hidden');
+    } else {
+      item.classList.remove('hidden');
+    }
+  }
+
+  function selectButton(item, select) {
+    if (select) {
+      item.classList.remove('border-primary', 'text-primary');
+      item.classList.add('border-secondary', 'bg-secondary', 'text-white');
+    } else {
+      item.classList.remove('border-secondary', 'bg-secondary', 'text-white');
+      item.classList.add('border-primary', 'text-primary');
+    }
+  }
 </script>
 </html>
