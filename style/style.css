@@ -70,3 +70,12 @@
 .font-curly {
     font-family: 'AmsterdamFour', sans-serif;
 }
+
+a {
+    font-weight: 500;
+}
+
+a:hover {
+    font-weight: bold;
+    color: #cd6944;
+}

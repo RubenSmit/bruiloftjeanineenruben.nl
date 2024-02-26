@@ -6,7 +6,8 @@ layout: default
 
 {% capture card_content %}
 <h3 class="text-center w-full text-xl md:text-2xl font-bold">Drie dagen? Wat gaan jullie doen dan?</h3>
-Hier wat antwoorden op de meest gestelde vragen. Meer info en een officiële uitnodiging volgt later.
+Hier wat antwoorden op de meest gestelde vragen. Want die zijn er hebben we gemerkt. Laat deze pagina gerust zien aan je
+oma, kapster of wie er dan ook meer wil weten.
 
 {% include card_title.html title="Maar waarom?" %}
 Waarom niet? Door de bruiloft over meerdere dagen uit te spreiden hoeven we geen haast te maken en kunnen we zelf meer
