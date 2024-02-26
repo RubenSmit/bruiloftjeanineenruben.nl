@@ -1,6 +1,6 @@
 ---
-title: Details · Bruiloft Jeanine en Ruben · 27-29 | 08 | 2024
-description: Meer informatie over de overnachtingsmogelijkheden en andere details van de bruiloft.
+title: Help mee · Bruiloft Jeanine en Ruben · 27-29 | 08 | 2024
+description: We hebben veel spullen en handjes nodig om de bruiloft mogelijk te maken. Misschien kun je ons daar bij helpen.
 layout: default
 ---
 {% capture help_mee_content %}

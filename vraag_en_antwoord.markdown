@@ -1,6 +1,6 @@
 ---
-title: Overnachten · Bruiloft Jeanine en Ruben · 27-29 | 08 | 2024
-description: Meer informatie over de overnachtingsmogelijkheden tijdens de bruiloft.
+title: Vraag & Antwoord · Bruiloft Jeanine en Ruben · 27-29 | 08 | 2024
+description: Een antwoord op al je vragen over de bruiloft. OF
 layout: default
 ---
 
@@ -36,6 +36,9 @@ een prachtige bolide om nog heel vaak naar de randstad te tuffen.
 {% include card_title.html title="Maar waarom Zwolle dan?" %}
 Want prachtige Randstad en Ruben bedenkt een mooi verhaal. (Mooi verhaal? Dat is heel niet nodig. Zwolle is gewoon een
 prachtige stad, centraal gelegen, goed bereikbaar, gezellig centrum en een mooie omgeving. Wat wil je nog meer?)
+
+{% include card_title.html title="Zijn er easter eggs op deze site?" %}
+Is het een echte website als er geen easter eggs zijn?
 
 {% include card_title.html title="Ik heb nog meer vragen, wat nu?" %}
 Nog even geduld, we zijn nog hard bezig met de voorbereiding dus we kunnen nog niet alle vragen beantwoorden. Zodra je

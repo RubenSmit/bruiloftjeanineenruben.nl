@@ -1,6 +1,6 @@
 ---
 title: Details · Bruiloft Jeanine en Ruben · 27-29 | 08 | 2024
-description: Meer informatie over de overnachtingsmogelijkheden en andere details van de bruiloft.
+description: Meer informatie over de overnachtingsmogelijkheden, locatie en andere details van de bruiloft.
 layout: default
 ---
 {% capture overnachten_content %}

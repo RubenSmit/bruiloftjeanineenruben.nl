@@ -1,6 +1,6 @@
 ---
 title: Bruiloft Jeanine en Ruben · 27-29 | 08 | 2024
-description: Drie dagen? Wat gaan jullie doen dan? Hier wat antwoorden op je vragen.
+description: Wij gaan trouwen en nodigen je graag uit om dat met ons te vieren.
 layout: default
 ---
 
