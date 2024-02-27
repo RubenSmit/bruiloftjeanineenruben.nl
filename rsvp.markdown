@@ -11,20 +11,20 @@ Het formulier wordt geladen…</iframe>
 {% include card.html title="Rsvp" content=rsvp_content %}
 
 {% capture ceremoniemeesters_content %}
-<div class="w-full flex">
-<div class="p-10">
+<div class="w-full flex mb-4">
+<div class="p-2 md:p-10">
 <img src="/images/de_meest_sexy_man.jpg" alt="Dennis Hans" class="rounded-full">
-<h3 class="w-full text-center text-2xl mt-4">Dennis Hans</h3>
+<h3 class="w-full text-center text-xl md:text-2xl mt-4">Dennis Hans</h3>
 </div>
-<div class="p-10">
+<div class="p-2 md:p-10">
 <img src="/images/suzanne_volk.jpg" alt="Suzanne Volk" class="rounded-full">
-<h3 class="w-full text-center text-2xl mt-4">Suzanne Volk</h3>
+<h3 class="w-full text-center text-xl md:text-2xl mt-4">Suzanne Volk</h3>
 </div>
 </div>
 
 Fun fact, onze ceremoniemeesters blijken familie te zijn. Dat wisten wij ook niet. Ze zullen ons helpen onze bruiloft
 enigzins in goede banen te leiden. Mocht je vragen hebben of iets willen afstemmen dan kun je ze mailen
-via <a href="mailto:ceremoniemeesters@bruiloftjeanineenruben.nl">ceremoniemeesters@bruiloftjeanineenruben.nl</a>
+via <a href="mailto:ceremoniemeesters@bruiloftjeanineenruben.nl" class="break-all">ceremoniemeesters@bruiloftjeanineenruben.nl</a>
 
 {% include card_title.html title="Stukjes" %}
 foo
