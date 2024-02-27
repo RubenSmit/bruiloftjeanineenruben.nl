@@ -11,14 +11,20 @@ Het formulier wordt geladen…</iframe>
 {% include card.html title="Rsvp" content=rsvp_content %}
 
 {% capture ceremoniemeesters_content %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla semper, risus non auctor vestibulum, felis orci euismod
-risus, id viverra tortor felis et lorem. Nunc nec est lorem. Pellentesque suscipit ligula quam, et ornare dui
-consectetur eu. Duis lacinia dolor magna, id scelerisque libero fringilla at. Pellentesque sem odio, facilisis
-consectetur quam ac, fermentum eleifend lacus. Nam vel sollicitudin nisi, efficitur congue libero. Integer libero
-lectus, cursus eget purus id, finibus consequat purus. Nulla blandit maximus tortor, sed ultrices purus pretium vitae.
-Phasellus at aliquet leo. Sed sed mauris bibendum, molestie magna id, accumsan urna. Aenean pulvinar leo et nisl tempor,
-faucibus condimentum nunc auctor. Cras rhoncus faucibus augue, non vulputate arcu laoreet eu.
-<a href="mailto:ceremoniemeesters@bruiloftjeanineenruben.nl">ceremoniemeesters@bruiloftjeanineenruben.nl</a>
+<div class="w-full flex">
+<div class="p-10">
+<img src="/images/de_meest_sexy_man.jpg" alt="Dennis Hans" class="rounded-full">
+<h3 class="w-full text-center text-2xl mt-4">Dennis Hans</h3>
+</div>
+<div class="p-10">
+<img src="/images/suzanne_volk.jpg" alt="Suzanne Volk" class="rounded-full">
+<h3 class="w-full text-center text-2xl mt-4">Suzanne Volk</h3>
+</div>
+</div>
+
+Fun fact, onze ceremoniemeesters blijken familie te zijn. Dat wisten wij ook niet. Ze zullen ons helpen onze bruiloft
+enigzins in goede banen te leiden. Mocht je vragen hebben of iets willen afstemmen dan kun je ze mailen
+via <a href="mailto:ceremoniemeesters@bruiloftjeanineenruben.nl">ceremoniemeesters@bruiloftjeanineenruben.nl</a>
 
 {% include card_title.html title="Stukjes" %}
 foo

@@ -13,16 +13,16 @@ lectus, cursus eget purus id, finibus consequat purus. Nulla blandit maximus tor
 Phasellus at aliquet leo. Sed sed mauris bibendum, molestie magna id, accumsan urna. Aenean pulvinar leo et nisl tempor,
 faucibus condimentum nunc auctor. Cras rhoncus faucibus augue, non vulputate arcu laoreet eu. 
 
-<div class="w-full mt-6 text-center">Bekijk het programma als:</div>
+<div class="w-full mt-6 text-center">Bekijk het programma voor:</div>
 <div class="w-full mt-2 flex justify-center">
-    <button class="py-2 px-4 border-t-2 border-b-2 border-l-2 rounded-l border-secondary bg-secondary text-white" data-timeline-button="alles" onclick="changeProgram('alles')">Allesgast (di-do)</button>
-    <button class="py-2 px-4 border-t-2 border-b-2 hover:bg-secondary hover:text-white hover:border-secondary border-primary" data-timeline-button="dag" onclick="changeProgram('dag')">Daggast (wo-do)</button>
-    <button class="py-2 px-4 border-t-2 border-b-2 border-r-2 rounded-r hover:bg-secondary hover:text-white hover:border-secondary border-primary" data-timeline-button="kerk" onclick="changeProgram('kerk')">Kerkgast (wo)</button>
+    <button class="py-2 px-4 border-t-2 border-b-2 border-l-2 rounded-l hover:bg-secondary hover:text-white hover:border-secondary border-secondary bg-secondary text-white" data-timeline-button="alles" onclick="changeProgram('alles')">Allesgasten (di-do)</button>
+    <button class="py-2 px-4 border-t-2 border-b-2 hover:bg-secondary hover:text-white hover:border-secondary border-primary" data-timeline-button="dag" onclick="changeProgram('dag')">Daggasten (wo-do)</button>
+    <button class="py-2 px-4 border-t-2 border-b-2 border-r-2 rounded-r hover:bg-secondary hover:text-white hover:border-secondary border-primary" data-timeline-button="kerk" onclick="changeProgram('kerk')">Kerkgasten (wo)</button>
 </div>
 
 {% include card_title.html title="Dinsdag 27 augustus" type="alles" %}
 {% capture dinsdag_items %}
-{% include timeline_item.html time="14:00" content="Aankomst alles-gasten" type="alles" %}
+{% include timeline_item.html time="14:00" content="Inloop alles-gasten" type="alles" %}
 {% include timeline_item.html time="15:00" content="Koffie en Thee" type="alles" %}
 {% include timeline_item.html time="16:00" content="Burgerlijk huwelijk" type="alles" %}
 {% include timeline_item.html time="18:00" content="Diner" type="alles" %}
@@ -40,7 +40,7 @@ faucibus condimentum nunc auctor. Cras rhoncus faucibus augue, non vulputate arc
 {% include timeline_item.html time="13:30" content="Inloop kerkgasten" type="kerk" %}
 {% include timeline_item.html time="14:00" content="Kerkdienst" type="kerk" %}
 {% include timeline_item.html time="16:00" content="Receptie" type="kerk" %}
-{% include timeline_item.html time="17:45" content="Vertrek kerkgasten" type="kerk" %}
+{% include timeline_item.html time="17:45" content="Uitzwaaien kerkgasten" type="kerk" %}
 {% include timeline_item.html time="18:00" content="Diner" type="dag" %}
 {% include timeline_item.html time="21:00" content="Feest" type="dag" %}
 {% endcapture %}

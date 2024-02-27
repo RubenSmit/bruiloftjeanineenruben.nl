@@ -20,23 +20,23 @@
 }
 
 .text-secondary {
-    color: #cd6944;
+    color: #f26c36;
 }
 
 .border-secondary {
-    border-color: #cd6944;
+    border-color: #f26c36;
 }
 
 .hover\:border-secondary:hover {
-    border-color: #cd6944;
+    border-color: #f26c36;
 }
 
 .bg-secondary {
-    background-color: #cd6944;
+    background-color: #f26c36;
 }
 
 .hover\:bg-secondary:hover {
-    background-color: #cd6944;
+    background-color: #f26c36;
 }
 
 @font-face {
@@ -88,8 +88,7 @@ a {
 }
 
 a:hover {
-    font-weight: bold;
-    color: #cd6944;
+    color: #f26c36;
 }
 
 .timeline-deco:not(.hidden):nth-last-child(2) > .timeline-line {
