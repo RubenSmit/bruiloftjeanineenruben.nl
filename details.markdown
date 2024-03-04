@@ -34,7 +34,7 @@ faucibus condimentum nunc auctor. Cras rhoncus faucibus augue, non vulputate arc
 foo
 
 {% include card_title.html title="Parkeren" %}
-foo
+<img src="/images/parkeren-decorated.svg">
 {% endcapture %}
 {% include card.html title="Locatie" content=locatie_content %}
 
