@@ -1,22 +1,27 @@
 .text-primary {
-    color: #2b2a60;
-    fill: #2b2a60;
+    color: #ba865f;
+    fill: #ba865f;
 }
 
 .bg-primary {
-    background-color: #2b2a60;
+    background-color: #ba865f;
 }
 
 .border-primary {
-    border-color: #2b2a60;
+    border-color: #ba865f;
+}
+
+.text-primary-700 {
+    color: #bf702a;
+    fill: #bf702a;
 }
 
 .bg-tan {
-    background-color: #ede2d8;
+    background-color: #fcf9f4;
 }
 
 .border-tan {
-    border-color: #ede2d8;
+    border-color: #fcf9f4;
 }
 
 .text-secondary {
@@ -39,48 +44,30 @@
     background-color: #f26c36;
 }
 
-@font-face {
-    font-family: Comorant;
-    src: url("/fonts/CormorantSC-Light.ttf") format("opentype");
-    font-weight: 300;
+.text-bronze {
+    background: -webkit-linear-gradient(#ca7345, #732100);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(2px 2px 6px #222);
 }
 
 @font-face {
-    font-family: Comorant;
-    src: url("/fonts/CormorantSC-Regular.ttf") format("opentype");
-    font-weight: 400;
-}
-
-@font-face {
-    font-family: Comorant;
-    src: url("/fonts/CormorantSC-Medium.ttf") format("opentype");
-    font-weight: 500;
-}
-
-@font-face {
-    font-family: Comorant;
-    src: url("/fonts/CormorantSC-SemiBold.ttf") format("opentype");
-    font-weight: 600;
-}
-
-@font-face {
-    font-family: Comorant;
-    src: url("/fonts/CormorantSC-Bold.ttf") format("opentype");
-    font-weight: 700;
+    font-family: CrimsonPro;
+    src: url("/fonts/CrimsonPro-VariableFont_wght.ttf") format("opentype");
 }
 
 .font-serif {
-    font-family: 'Comorant', serif;
+    font-family: 'CrimsonPro', sans-serif;
 }
 
 @font-face {
-    font-family: AmsterdamFour;
-    src: url("/fonts/AmsterdamFour-Regular.ttf") format("opentype");
+    font-family: AlexBrush;
+    src: url("/fonts/AlexBrush-Regular.ttf") format("opentype");
     font-weight: 400;
 }
 
 .font-curly {
-    font-family: 'AmsterdamFour', sans-serif;
+    font-family: 'AlexBrush', serif;
 }
 
 a {
@@ -91,9 +78,35 @@ a:hover {
     color: #f26c36;
 }
 
-.timeline-deco:not(.hidden):nth-last-child(2) > .timeline-line {
-    display: none;
+.h-120 {
+    height: 30rem;
 }
-.timeline-deco:not(.hidden):nth-last-child(2) > .timeline-orb {
-    margin-left: 0;
+
+.h-screen-1\/2 {
+    height: 0.5vh;
+}
+
+article {
+    font-family: 'CrimsonPro', sans-serif;
+}
+
+.bg-pos-custom {
+    background-position: 50% 60%;
+}
+
+/* lg */
+@media (min-width: 1024px) {
+
+}
+
+/* md */
+@media (min-width: 768px) {
+    .md\:h-120 {
+        height: 30rem;
+    }
+}
+
+/* sm */
+@media (min-width: 640px) {
+
 }
