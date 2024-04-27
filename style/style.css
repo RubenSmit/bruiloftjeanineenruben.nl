@@ -1,0 +1,112 @@
+.text-primary {
+    color: #ba865f;
+    fill: #ba865f;
+}
+
+.bg-primary {
+    background-color: #ba865f;
+}
+
+.border-primary {
+    border-color: #ba865f;
+}
+
+.text-primary-700 {
+    color: #bf702a;
+    fill: #bf702a;
+}
+
+.bg-tan {
+    background-color: #fcf9f4;
+}
+
+.border-tan {
+    border-color: #fcf9f4;
+}
+
+.text-secondary {
+    color: #f26c36;
+}
+
+.border-secondary {
+    border-color: #f26c36;
+}
+
+.hover\:border-secondary:hover {
+    border-color: #f26c36;
+}
+
+.bg-secondary {
+    background-color: #f26c36;
+}
+
+.hover\:bg-secondary:hover {
+    background-color: #f26c36;
+}
+
+.text-bronze {
+    background: -webkit-linear-gradient(#ca7345, #732100);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(2px 2px 6px #222);
+}
+
+@font-face {
+    font-family: CrimsonPro;
+    src: url("/fonts/CrimsonPro-VariableFont_wght.ttf") format("opentype");
+}
+
+.font-serif {
+    font-family: 'CrimsonPro', sans-serif;
+}
+
+@font-face {
+    font-family: AlexBrush;
+    src: url("/fonts/AlexBrush-Regular.ttf") format("opentype");
+    font-weight: 400;
+}
+
+.font-curly {
+    font-family: 'AlexBrush', serif;
+}
+
+a {
+    font-weight: 500;
+}
+
+a:hover {
+    color: #f26c36;
+}
+
+.h-120 {
+    height: 30rem;
+}
+
+.h-screen-1\/2 {
+    height: 0.5vh;
+}
+
+article {
+    font-family: 'CrimsonPro', sans-serif;
+}
+
+.bg-pos-custom {
+    background-position: 50% 60%;
+}
+
+/* lg */
+@media (min-width: 1024px) {
+
+}
+
+/* md */
+@media (min-width: 768px) {
+    .md\:h-120 {
+        height: 30rem;
+    }
+}
+
+/* sm */
+@media (min-width: 640px) {
+
+}

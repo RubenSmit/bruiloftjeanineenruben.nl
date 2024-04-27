@@ -1,0 +1,11 @@
+<div class="w-full mt-6 text-center">Bekijk het programma voor:</div>
+<div class="w-full my-2 flex justify-center">
+  <button class="py-2 px-4 border-t-2 border-b-2 border-l-2 rounded-l hover:bg-secondary hover:text-white hover:border-secondary border-secondary bg-secondary text-white" data-timeline-button="alles" onclick="changeProgram('alles')">Allesgasten (di-do)</button>
+  <button class="py-2 px-4 border-t-2 border-b-2 hover:bg-secondary hover:text-white hover:border-secondary border-primary" data-timeline-button="dag" onclick="changeProgram('dag')">Daggasten (wo-do)</button>
+  <button class="py-2 px-4 border-t-2 border-b-2 border-r-2 rounded-r hover:bg-secondary hover:text-white hover:border-secondary border-primary" data-timeline-button="kerk" onclick="changeProgram('kerk')">Kerkgasten (wo)</button>
+</div>
+
+{% include timeline_alles.html %}
+{% include timeline_dag.html %}
+{% include timeline_kerk.html %}
+
