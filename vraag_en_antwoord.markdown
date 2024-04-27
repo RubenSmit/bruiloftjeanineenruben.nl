@@ -1,6 +1,6 @@
 ---
 title: Vraag & Antwoord
-description: Een antwoord op al je vragen over de bruiloft. Nog meer vragen? Mail de ceremoniemeesters!
+description: Een antwoord op al je vragen over de bruiloft. Nog meer vragen? Gebruik het formulier of mail de ceremoniemeesters!
 layout: default
 ---
 ## Drie dagen? Wat gaan jullie doen dan?
