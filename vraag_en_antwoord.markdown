@@ -4,8 +4,7 @@ description: Een antwoord op al je vragen over de bruiloft. Nog meer vragen? Geb
 layout: default
 ---
 ## Drie dagen? Wat gaan jullie doen dan?
-Hier wat antwoorden op de meest gestelde vragen. Want die zijn er hebben we gemerkt. Laat deze pagina gerust zien aan je
-oma, kapster of wie er dan ook meer wil weten.
+Hier wat antwoorden op de meest gestelde vragen en originele vragen. Als je het antwoord op je vraag niet hebt kunnen vinden op onze website, zeg het dan in het formulier beneden!
 
 ### Maar waarom?
 Waarom niet? Door de bruiloft over meerdere dagen uit te spreiden hoeven we geen haast te maken en kunnen we zelf meer
@@ -13,7 +12,7 @@ genieten van onze bruiloft. We hebben dan de tijd om gezellig met al onze gasten
 kruising tussen een vrienden-/familieweekend en een bruiloft.
 
 ### Waar is het?
-In Slagharen, ja dat is meer dan alleen een pretpark, het is een dorp in overijssel.
+In Slagharen, ja dat is meer dan alleen een pretpark, het is een dorp in Overijssel.
 
 ### Welke dag is dan jullie 'echte' dag?
 Woensdag 28 augustus 2024. Of Ruben dit ook gaat onthouden is de vraag.
@@ -32,11 +31,17 @@ Het prachtige Delft en alle mooie mensen die daar wonen moeten wel snel en makke
 een prachtige bolide om nog heel vaak naar de randstad te tuffen.
 
 ### Maar waarom Zwolle dan?
-Want prachtige Randstad en Ruben bedenkt een mooi verhaal. (Mooi verhaal? Dat is heel niet nodig. Zwolle is gewoon een
-prachtige stad, centraal gelegen, goed bereikbaar, gezellig centrum en een mooie omgeving. Wat wil je nog meer?)
+Volgens Ruben is Zwolle gewoon een
+prachtige stad, centraal gelegen, goed bereikbaar, gezellig centrum en een mooie omgeving. Wat wil je nog meer?
+
+### En Jeanine koos echt vrijwillig daarvoor? Of heb je haar omgepraat?
+Ja. -sorry, Zwolle lijkt me oprecht best oké-
 
 ### Zijn er easter eggs op deze site?
 Is het een echte website als er geen easter eggs zijn?
+
+### Wat is een easter egg?
+Een easter egg is een verborgen grapje of boodschap die in de website is gebouwd. En ja, het betekent paasei, dat is omdat het verwijst naar het verrassende effect van het vinden van een paasei (wat hier dus verborgen content is), waardoor de vinder het gevoel krijgt een geheim te hebben ontdekt. En nee, 'easter egg' is geen algemene kennis. Blijkbaar.
 
 ## Ceremoniemeesters
 <div class="w-full flex mb-4">
