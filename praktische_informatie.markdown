@@ -24,7 +24,7 @@ Paklijst: Je bed heeft een deken en een kussen, maar neem je zelf beddengoed mee
 Voor de gasten die woensdag tot donderdag erbij zijn, is er een campingveld achter De Eik waar een tent opgezet kan worden.
 
 ## Social media
-We hebben eigen fotograven en videograven gevraagd beeldmateriaal te maken.
+We hebben eigen fotografen en videografen gevraagd beeldmateriaal te maken.
 Mocht je zelf foto's willen maken, plaats ze dan nog niet op social media.
 
 ## Stukjes doen, kan dat?
