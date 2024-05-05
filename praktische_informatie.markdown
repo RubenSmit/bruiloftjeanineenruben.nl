@@ -4,7 +4,7 @@ description: Meer informatie over de overnachtingsmogelijkheden, locatie en ande
 layout: default
 ---
 ## Parkeren
-Bij de locatie is een groot grasveld achter waar geparkeerd kan worden. Vanwege het grote aantal auto's dat verwacht wordt, vragen je wel strak te parkeren!
+Bij de locatie is een groot grasveld achter waar geparkeerd kan worden. Vanwege het grote aantal auto's dat verwacht wordt, vragen we je wel strak te parkeren!
 
 ### Juiste inrit
 Rij het terrein op door de inrit die aangegeven wordt door de feestborden en de parkeerhulp. Of zoals op het plaatje te zien is: de tweede inrit.
