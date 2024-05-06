@@ -1,5 +1,5 @@
 ---
-title: Is dit een Easer Egg?
+title: Is dit een Easter Egg?
 description: Goeie vraag, wat denk je er van?
 layout: default
 ---
