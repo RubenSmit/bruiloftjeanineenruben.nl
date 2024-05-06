@@ -54,6 +54,13 @@ Maar de volgende spullen gaan we ergens huren als we ze niet kunnen lenen van vr
 - Statafels (en -rokken)
 
 **Categorie: dit wil je gewoon hebben op je bruiloft**
-- Gong
+- <span onclick="play()" class="cursor-pointer">Gong</span>
+
+<audio id="audio" src="/audio/gong.mp3"></audio>
+<script>
+      function play() {
+        document.getElementById("audio").play();
+      }
+</script>
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfPss7kC25GvM84u5kZHCLQrfMqMARHeX1if9xcUSq8RLn4Ag/viewform?embedded=true" width="100%" height="1163" frameborder="0" marginheight="0" marginwidth="0">Laden…</iframe>
