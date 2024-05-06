@@ -37,7 +37,7 @@ Maar de volgende spullen gaan we ergens huren als we ze niet kunnen lenen van vr
 - Hotpot
 - Steamer
 - Warmhoudkast / Horeca-oven
-- Koffiezetapparaat / Koffie-container 20L
+- [Koffiezetapparaat](/coffee) / Koffie-container 20L
 - Thee-container 20L
 - Taart serveerschalen
 - Limonade-tap
