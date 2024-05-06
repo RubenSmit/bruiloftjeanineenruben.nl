@@ -41,7 +41,7 @@ Ja. -sorry, Zwolle lijkt me oprecht best oké-
 Is het een echte website als er geen easter eggs zijn?
 
 ### Wat is een easter egg?
-Een easter egg is een verborgen grapje of boodschap die in de website is gebouwd. En ja, het betekent paasei, dat is omdat het verwijst naar het verrassende effect van het vinden van een paasei (wat hier dus verborgen content is), waardoor de vinder het gevoel krijgt een geheim te hebben ontdekt. En nee, 'easter egg' is geen algemene kennis. Blijkbaar.
+Een easter egg is een verborgen grapje of [boodschap](https://www.youtube.com/watch?v=L5K-PsoL5_I) die in de website is gebouwd. En ja, het betekent paasei, dat is omdat het verwijst naar het verrassende effect van het vinden van een paasei (wat hier dus verborgen content is), waardoor de vinder het gevoel krijgt een geheim te hebben ontdekt. En nee, 'easter egg' is geen algemene kennis. Blijkbaar.
 
 ## Ceremoniemeesters
 <div class="w-full flex mb-4">
