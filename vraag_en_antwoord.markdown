@@ -64,18 +64,14 @@ easter egg' is geen algemene kennis. Blijkbaar.
 
 <div class="w-full flex mb-4">
 <div class="p-2 md:p-10">
-<img src="/images/de_meest_sexy_man.jpg" alt="Dennis Hans" onclick="play()" class="rounded-full">
+<img src="/images/de_meest_sexy_man.jpg" alt="Dennis Hans" onclick="play('whisper')" class="rounded-full">
 <h3 class="w-full text-center text-xl md:text-2xl mt-4">Dennis Hans</h3>
-<audio id="audio" src="/audio/careless_whispers.mp3"></audio>
-<script>
-      function play() {
-        document.getElementById("audio").play();
-      }
-</script>
+<audio id="whisper" src="/audio/careless_whispers.mp3"></audio>
 </div>
 <div class="p-2 md:p-10">
-<img src="/images/suzanne_volk.jpg" alt="Suzanne Volk" class="rounded-full">
+<img src="/images/suzanne_volk.jpg" alt="Suzanne Volk" onclick="play('hey')" class="rounded-full">
 <h3 class="w-full text-center text-xl md:text-2xl mt-4">Suzanne Volk</h3>
+<audio id="hey" src="/audio/hey-brother.mp3"></audio>
 </div>
 </div>
 

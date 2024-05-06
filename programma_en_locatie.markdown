@@ -14,3 +14,5 @@ Ben je uitgenodigd voor de woensdag, woensdag-donderdag of dinsdag-donderdag? Kl
 Onze hele bruiloft zal plaatsvinden op De Eik in Slagharen, een voormalige kloosterschool die omgebouwd is naar een schitterende trouwlocatie.
 
 De Eik heeft een keuken, eet-/feestzaal, woonkamer, spelletjesruimte en 20 slaapkamers. Buiten bevinden zich een terras en een prachtige voortuin waar de kerkdienst gehouden zal worden. Bij slecht weer, zal de kerkdienst plaatsvinden in de kerkzaal van het naastgelegen verzorgingshuis.
+
+![Een foto van de locatie, Huize de Eik in Slagharen](/images/locatie.jpg)
