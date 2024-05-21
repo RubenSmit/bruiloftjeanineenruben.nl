@@ -44,7 +44,7 @@ Maar de volgende spullen gaan we ergens huren als we ze niet kunnen lenen van vr
 - Set broodmanden
 
 **Categorie: maak de locatie pretty**
-- Prikverlichting
+- ~Prikverlichting~
 - Houten kistjes
 - Set lantaarns
 - Set grote vazen
