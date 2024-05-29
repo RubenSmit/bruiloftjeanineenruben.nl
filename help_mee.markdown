@@ -44,7 +44,7 @@ Maar de volgende spullen gaan we ergens huren als we ze niet kunnen lenen van vr
 - Set broodmanden
 
 **Categorie: maak de locatie pretty**
-- ~Prikverlichting~
+- Prikverlichting
 - Houten kistjes
 - Set lantaarns
 - Set grote vazen
@@ -52,6 +52,9 @@ Maar de volgende spullen gaan we ergens huren als we ze niet kunnen lenen van vr
 **Categorie: maak de locatie praktisch**
 - Prullenbakken
 - Statafels (en -rokken)
+
+**Categorie: Techniek**
+- Kabel haspels geschikt voor 3500 watt (1 groep)
 
 **Categorie: dit wil je gewoon hebben op je bruiloft**
 - <span onclick="play('gong')" class="cursor-pointer">Gong</span>
