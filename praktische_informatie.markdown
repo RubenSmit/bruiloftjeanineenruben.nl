@@ -11,8 +11,8 @@ Rij het terrein op door de inrit die aangegeven wordt door de feestborden en de 
 ![Een plattegrond van de route naar de parkeerplaatsen](/images/parkeren-decorated.svg)
 
 ## Dresscode
-Draag vooral iets waar jij je goed, kleurrijk en feestelijk in voelt.
-Mocht je een richtlijn fijn vinden: Trek dinsdag/donderdag iets zomers aan, en woensdag iets feestelijks
+Het is een bruiloft, dus een google search naar kleding van gasten op een bruiloft geeft je al wat idee. Het enige wat ons echt boeit: draag vooral iets waar jij je goed in voelt. Jij bent namelijk degene die het meest op de foto's terug gaat kijken hoe je eruit zag, terwijl wij enkel kijken naar je blije hoofd ;)
+Mocht je een verdere richtlijn voor de diverse dagen fijn vinden: Trek dinsdag/donderdag iets zomers aan, en woensdag iets feestelijks. Verder houden wij van vrolijk een kleurrijk, dus dat mag terugkomen in je kleding.
 
 ## Overnachten
 
