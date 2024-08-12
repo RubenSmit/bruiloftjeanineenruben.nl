@@ -31,6 +31,10 @@ De woensdag, dat is de echte trouwdag.
 
 Het heeft een torentje en een vijver, maar geen slotgracht. Tja, wie zal het zeggen.
 
+### Welke liederen zijn er tijdens de trouwdienst?
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2xqVb2HAzhEFOSeOnvR7f6?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ### Waar gaan jullie wonen?
 
 In de prachtige hanzestad Zwolle.
