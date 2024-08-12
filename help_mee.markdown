@@ -10,14 +10,10 @@ De ceremoniemeesters weten precies wat er moet gebeuren, dus die kunnen het t.z.
 
 ### Woensdag
 - 10:00-11:00  
-  Lunch klaarzetten of opruimen  
   Kerkdienst opbouwen (Stoelen neerzetten, programmaboekjes neerleggen, decoratie neerzetten)
 
 - 13:30-14:00  
   Parkeerwachters (parkeerveld aanwijzen en auto's strak laten parkeren)
-
-- 15:30-16:00  
-  Taarten op tafel zetten en drinken bijvullen.
 
 - 17:30-18:00  
   Locatie ombouwen van receptie opstelling naar eten- en feestopstelling
@@ -28,25 +24,15 @@ De ceremoniemeesters weten precies wat er moet gebeuren, dus die kunnen het t.z.
 
 ## Spullen
 Bij zo'n bruiloft zijn een hoop spullen nodig. Mocht je toevallig iets van onze lijst hebben liggen wat je een dagje wil uitlenen, zeg het dan vooral! Wel geldt: leen het alleen uit als het niet te veel moeite is.
-
-Maar de volgende spullen gaan we ergens huren als we ze niet kunnen lenen van vrienden/familie:
+Contact je Jeanine of Ruben als je dit wil uitlenen?
 
 **Categorie: voeder al de gasten**
-- Gastronoombakken
-- Chafing dishes
-- Hotpot
-- Steamer
-- Warmhoudkast / Horeca-oven
 - [Koffiezetapparaat](/coffee) / Koffie-container 20L
-- Thee-container 20L
-- Taart serveerschalen
 - Limonade-tap
-- Set broodmanden
+- Elektrische hapjespan
 
 **Categorie: maak de locatie pretty**
-- Prikverlichting
 - Houten kistjes
-- Set lantaarns
 - Set grote vazen
 
 **Categorie: maak de locatie praktisch**
