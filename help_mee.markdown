@@ -20,7 +20,10 @@ De ceremoniemeesters weten precies wat er moet gebeuren, dus die kunnen het t.z.
 
 ### Donderdagochtend
 - Na het ontbijt  
-  Opruimen van de stoelen en spullen
+  Opruimen van de stoelen e.d spullen en het in de busjes zetten
+  BBQ schoonmaken (schijnt echt een goed uur te duren)
+
+Zeker donderdagochtend zijn alle handjes welkom om op te ruimen zodat we met 2 uur de hele locatie lang en breed klaar hebben. Schoonmaak is afgekocht, maar het moet wel opgeruimd en geveegd achtergelaten worden.
 
 ## Spullen
 Bij zo'n bruiloft zijn een hoop spullen nodig. Mocht je toevallig iets van onze lijst hebben liggen wat je een dagje wil uitlenen, zeg het dan vooral! Wel geldt: leen het alleen uit als het niet te veel moeite is.
