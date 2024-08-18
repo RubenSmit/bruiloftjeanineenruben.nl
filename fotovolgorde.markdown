@@ -4,7 +4,10 @@ description: De fotovolgorde van de groepsfoto's zijn hier te vinden
 layout: default
 ---
 
-Er is een uurtje voor de groepsfoto's, dus het streven is om er het tempo in te houden. Luister dus goed naar instructies van de ceremoniemeesters.
+Er is een uurtje voor de groepsfoto's, dus het streven is om er het tempo in te houden. 
+Luister dus goed naar instructies van de ceremoniemeesters.
+
+En trek uiteraard je mooiste smoeltje op de foto ;)
 
 ## Eerst met zn allen
 <ol>
