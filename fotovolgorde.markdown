@@ -16,25 +16,25 @@ Er is een uurtje voor de groepsfoto's, dus het streven is om er het tempo in te 
 
 ## Dan de gezinnen
 <ol>
-    <li><b style="color: purple;">Beide</b> + Oma</li>
-    <li><b style="color: purple;">Beide</b> + Ouders Smit + Ouders De Jong</li>
-    <li><b style="color: purple;">Beide</b> + Gezin Smit + Gezin De Jong</li>
-    <li><b style="color: purple;">Beide</b> + Gezin Smit</li>
-    <li><b style="color: blue;">Ruben</b> + Gezin Smit</li>
-    <li><b style="color: blue;">Ruben</b> + Ouders Smit</li>
-    <li><b style="color: purple;">Beide</b> + Ouders Smit</li>
-    <li><b style="color: purple;">Beide</b> + Broer, zussen en partners</li>
-    <li><b style="color: blue;">Ruben</b> + Broer en zussen</li>
-    <li><b style="color: blue;">Ruben</b> + Marle en Jeske</li>
-    <li><b style="color: blue;">Ruben</b> + Tijmen</li>
-    <li><b style="color: purple;">Beide</b> + Gezin De Jong</li>
-    <li><b style="color: pink;">Jeanine</b> + Gezin De Jong</li>
-    <li><b style="color: pink;">Jeanine</b> + Ouders De Jong</li>
-    <li><b style="color: purple;">Beide</b> + Ouders De Jong</li>
-    <li><b style="color: purple;">Beide</b> + Broers + (schoon)zussen</li>
-    <li><b style="color: pink;">Jeanine</b> + Broers + zus</li>
-    <li><b style="color: pink;">Jeanine</b> + Broers</li>
-    <li><b style="color: pink;">Jeanine</b> + Rosalynn</li>
+    <li><b style="color: forestgreen;">Beide</b> + Oma</li>
+    <li><b style="color: forestgreen;">Beide</b> + Ouders Smit + Ouders De Jong</li>
+    <li><b style="color: forestgreen;">Beide</b> + Gezin Smit + Gezin De Jong</li>
+    <li><b style="color: forestgreen;">Beide</b> + Gezin Smit</li>
+    <li><b style="color: deepskyblue;">Ruben</b> + Gezin Smit</li>
+    <li><b style="color: deepskyblue;">Ruben</b> + Ouders Smit</li>
+    <li><b style="color: forestgreen;">Beide</b> + Ouders Smit</li>
+    <li><b style="color: forestgreen;">Beide</b> + Broer, zussen en partners</li>
+    <li><b style="color: deepskyblue;">Ruben</b> + Broer en zussen</li>
+    <li><b style="color: deepskyblue;">Ruben</b> + Marle en Jeske</li>
+    <li><b style="color: deepskyblue;">Ruben</b> + Tijmen</li>
+    <li><b style="color: forestgreen;">Beide</b> + Gezin De Jong</li>
+    <li><b style="color: violet;">Jeanine</b> + Gezin De Jong</li>
+    <li><b style="color: violet;">Jeanine</b> + Ouders De Jong</li>
+    <li><b style="color: forestgreen;">Beide</b> + Ouders De Jong</li>
+    <li><b style="color: forestgreen;">Beide</b> + Broers + (schoon)zussen</li>
+    <li><b style="color: violet;">Jeanine</b> + Broers + zus</li>
+    <li><b style="color: violet;">Jeanine</b> + Broers</li>
+    <li><b style="color: violet;">Jeanine</b> + Rosalynn</li>
 </ol>
 
 
