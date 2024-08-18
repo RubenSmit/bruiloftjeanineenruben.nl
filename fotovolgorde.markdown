@@ -17,11 +17,16 @@ En trek uiteraard je mooiste smoeltje op de foto ;)
     <li>Alle Alphanen</li>
 </ol>
 
+
 ## Dan de gezinnen
 <ol>
     <li><b style="color: forestgreen;">Beide</b> + Oma</li>
     <li><b style="color: forestgreen;">Beide</b> + Ouders Smit + Ouders De Jong</li>
     <li><b style="color: forestgreen;">Beide</b> + Gezin Smit + Gezin De Jong</li>
+</ol>
+
+Smitjes
+<ol>
     <li><b style="color: forestgreen;">Beide</b> + Gezin Smit</li>
     <li><b style="color: deepskyblue;">Ruben</b> + Gezin Smit</li>
     <li><b style="color: deepskyblue;">Ruben</b> + Ouders Smit</li>
@@ -30,16 +35,19 @@ En trek uiteraard je mooiste smoeltje op de foto ;)
     <li><b style="color: deepskyblue;">Ruben</b> + Broer en zussen</li>
     <li><b style="color: deepskyblue;">Ruben</b> + Marle en Jeske</li>
     <li><b style="color: deepskyblue;">Ruben</b> + Tijmen</li>
+</ol>
+
+De Jong
+<ol>
     <li><b style="color: forestgreen;">Beide</b> + Gezin De Jong</li>
     <li><b style="color: violet;">Jeanine</b> + Gezin De Jong</li>
     <li><b style="color: violet;">Jeanine</b> + Ouders De Jong</li>
     <li><b style="color: forestgreen;">Beide</b> + Ouders De Jong</li>
-    <li><b style="color: forestgreen;">Beide</b> + Broers + (schoon)zussen</li>
-    <li><b style="color: violet;">Jeanine</b> + Broers + zus</li>
+    <li><b style="color: forestgreen;">Beide</b> + Broers, zus en partners</li>
+    <li><b style="color: violet;">Jeanine</b> + Broers en zus</li>
     <li><b style="color: violet;">Jeanine</b> + Broers</li>
     <li><b style="color: violet;">Jeanine</b> + Rosalynn</li>
 </ol>
-
 
 ## Dan de vrienden
 <ol>
