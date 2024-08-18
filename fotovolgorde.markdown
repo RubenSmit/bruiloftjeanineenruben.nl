@@ -15,109 +15,27 @@ Er is een uurtje voor de groepsfoto's, dus het streven is om er het tempo in te 
 </ol>
 
 ## Dan de gezinnen
-
-<table>
-    <tr>
-        <th>#</th>
-        <th>Bruidspaar</th>
-        <th>met</th>
-    </tr>
-    <tr>
-        <td>1</td>
-        <td>Beide</td>
-        <td>Oma</td>
-    </tr>
-    <tr>
-        <td>2</td>
-        <td>Beide</td>
-        <td>Ouders Smit + Ouders De Jong</td>
-    </tr>
-    <tr>
-        <td>3</td>
-        <td>Beide</td>
-        <td>Gezin Smit + Gezin De Jong</td>
-    </tr>
-    <tr>
-        <td>4</td>
-        <td>Beide</td>
-        <td>Gezin Smit</td>
-    </tr>
-    <tr>
-        <td>5</td>
-        <td>Ruben</td>
-        <td>Gezin Smit</td>
-    </tr>
-    <tr>
-        <td>6</td>
-        <td>Ruben</td>
-        <td>Ouders Smit</td>
-    </tr>
-    <tr>
-        <td>7</td>
-        <td>Beide</td>
-        <td>Ouders Smit</td>
-    </tr>
-    <tr>
-        <td>8</td>
-        <td>Beide</td>
-        <td>Broer, zussen en partners</td>
-    </tr>
-    <tr>
-        <td>9</td>
-        <td>Ruben</td>
-        <td>Broer en zussen</td>
-    </tr>
-    <tr>
-        <td>10</td>
-        <td>Ruben</td>
-        <td>Marle en Jeske</td>
-    </tr>
-    <tr>
-        <td>11</td>
-        <td>Ruben</td>
-        <td>Tijmen</td>
-    </tr>
-    <tr>
-        <td>12</td>
-        <td>Beide</td>
-        <td>Gezin De Jong</td>
-    </tr>
-    <tr>
-        <td>13</td>
-        <td>Jeanine</td>
-        <td>Gezin De Jong</td>
-    </tr>
-    <tr>
-        <td>14</td>
-        <td>Jeanine</td>
-        <td>Ouders De Jong</td>
-    </tr>
-    <tr>
-        <td>15</td>
-        <td>Beide</td>
-        <td>Ouders De Jong</td>
-    </tr>
-    <tr>
-        <td>16</td>
-        <td>Beide</td>
-        <td>Broers + (schoon)zussen</td>
-    </tr>
-    <tr>
-        <td>17</td>
-        <td>Jeanine</td>
-        <td>Broers + zus</td>
-    </tr>
-    <tr>
-        <td>18</td>
-        <td>Jeanine</td>
-        <td>Broers</td>
-    </tr>
-    <tr>
-        <td>19</td>
-        <td>Jeanine</td>
-        <td>Rosalynn</td>
-    </tr>
-</table>
+<ol>
+    <li><b style="color: purple;">Beide</b> + Oma</li>
+    <li><b style="color: purple;">Beide</b> + Ouders Smit + Ouders De Jong</li>
+    <li><b style="color: purple;">Beide</b> + Gezin Smit + Gezin De Jong</li>
+    <li><b style="color: purple;">Beide</b> + Gezin Smit</li>
+    <li><b style="color: blue;">Ruben</b> + Gezin Smit</li>
+    <li><b style="color: blue;">Ruben</b> + Ouders Smit</li>
+    <li><b style="color: purple;">Beide</b> + Ouders Smit</li>
+    <li><b style="color: purple;">Beide</b> + Broer, zussen en partners</li>
+    <li><b style="color: blue;">Ruben</b> + Broer en zussen</li>
+    <li><b style="color: blue;">Ruben</b> + Marle en Jeske</li>
+    <li><b style="color: blue;">Ruben</b> + Tijmen</li>
+    <li><b style="color: purple;">Beide</b> + Gezin De Jong</li>
+    <li><b style="color: pink;">Jeanine</b> + Gezin De Jong</li>
+    <li><b style="color: pink;">Jeanine</b> + Ouders De Jong</li>
+    <li><b style="color: purple;">Beide</b> + Ouders De Jong</li>
+    <li><b style="color: purple;">Beide</b> + Broers + (schoon)zussen</li>
+    <li><b style="color: pink;">Jeanine</b> + Broers + zus</li>
+    <li><b style="color: pink;">Jeanine</b> + Broers</li>
+    <li><b style="color: pink;">Jeanine</b> + Rosalynn</li>
+</ol>
 
 
 ## Dan de vrienden
