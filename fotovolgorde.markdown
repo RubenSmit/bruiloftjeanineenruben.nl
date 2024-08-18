@@ -15,72 +15,110 @@ Er is een uurtje voor de groepsfoto's, dus het streven is om er het tempo in te 
 </ol>
 
 ## Dan de gezinnen
+
 <table>
     <tr>
+        <th>#</th>
         <th>Bruidspaar</th>
         <th>met</th>
     </tr>
     <tr>
+        <td>1</td>
+        <td>Beide</td>
+        <td>Oma</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Beide</td>
+        <td>Ouders Smit + Ouders De Jong</td>
+    </tr>
+    <tr>
+        <td>3</td>
         <td>Beide</td>
         <td>Gezin Smit + Gezin De Jong</td>
     </tr>
     <tr>
+        <td>4</td>
         <td>Beide</td>
         <td>Gezin Smit</td>
     </tr>
     <tr>
+        <td>5</td>
         <td>Ruben</td>
         <td>Gezin Smit</td>
     </tr>
     <tr>
+        <td>6</td>
         <td>Ruben</td>
-        <td>Broers, zussen en partners</td>
+        <td>Ouders Smit</td>
     </tr>
     <tr>
-        <td>Ruben</td>
-        <td>Zusjes</td>
+        <td>7</td>
+        <td>Beide</td>
+        <td>Ouders Smit</td>
     </tr>
     <tr>
+        <td>8</td>
+        <td>Beide</td>
+        <td>Broer, zussen en partners</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>Ruben</td>
+        <td>Broer en zussen</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>Ruben</td>
+        <td>Marle en Jeske</td>
+    </tr>
+    <tr>
+        <td>11</td>
         <td>Ruben</td>
         <td>Tijmen</td>
     </tr>
     <tr>
-        <td>Ruben</td>
-        <td>Ouders Smit</td>
-    </tr>
-    <tr>
-        <td>Beide</td>
-        <td>Ouders Smit</td>
-    </tr>
-    <tr>
+        <td>12</td>
         <td>Beide</td>
         <td>Gezin De Jong</td>
     </tr>
     <tr>
+        <td>13</td>
         <td>Jeanine</td>
         <td>Gezin De Jong</td>
     </tr>
     <tr>
+        <td>14</td>
         <td>Jeanine</td>
         <td>Ouders De Jong</td>
     </tr>
     <tr>
+        <td>15</td>
         <td>Beide</td>
         <td>Ouders De Jong</td>
     </tr>
     <tr>
-        <td>Jeanine</td>
-        <td>(Schoon)zussen De Jong</td>
+        <td>16</td>
+        <td>Beide</td>
+        <td>Broers + (schoon)zussen</td>
     </tr>
     <tr>
+        <td>17</td>
+        <td>Jeanine</td>
+        <td>Broers + zus</td>
+    </tr>
+    <tr>
+        <td>18</td>
         <td>Jeanine</td>
         <td>Broers</td>
     </tr>
     <tr>
+        <td>19</td>
         <td>Jeanine</td>
         <td>Rosalynn</td>
     </tr>
 </table>
+
 
 ## Dan de vrienden
 <ol>
