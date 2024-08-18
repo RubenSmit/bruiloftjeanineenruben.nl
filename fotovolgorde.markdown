@@ -53,10 +53,10 @@ De Jong
 <ol>
     <li>H.U.P.</li>
         <ul>
-           <li>met <b style="color: forestgreen;">Bruidspaar</b></li>
-           <li>met <b style="color: violet;">Jeanine</b></li>
+           <li><b style="color: forestgreen;">Bruidspaar</b> en H.U.P.</li>
+           <li><b style="color: violet;">Jeanine</b> en H.U.P.</li>
         </ul>
-    <li><b style="color: violet;">Jeanine</b> + Baja en Barrie</li>
+    <li>Baja en Barrie</li>
     <li>M&M's</li>
         <ul>
             <li><b style="color: forestgreen;">Bruidspaar</b> met partners</li>
