@@ -54,7 +54,7 @@ De Jong
     <li>H.U.P.</li>
     <li>Baja en Barrie</li>
     <li>M&M's</li>
-    <li>Josanne en Olaf Smidt</li>
+    <li>Josanne en Olaf</li>
     <li>Ruben en Boris</li>
     <li>Ken en Hanneke</li>
     <li>Matthijs en Sanne</li>
@@ -64,6 +64,6 @@ De Jong
     <li>De Jongens + aanhang</li>
     <li>De Jongens (enkel mannen)</li>
     <li>Senaat</li>
-    <li>Dennis Hans</li>
+    <li>Dennis</li>
     <li>Suzanne en Ruben</li>
 </ol>
