@@ -20,18 +20,18 @@ En trek uiteraard je mooiste smoeltje op de foto ;)
 
 ## Dan de gezinnen
 <ol>
-    <li><b style="color: forestgreen;">Beide</b> + Oma</li>
-    <li><b style="color: forestgreen;">Beide</b> + Ouders Smit + Ouders De Jong</li>
-    <li><b style="color: forestgreen;">Beide</b> + Gezin Smit + Gezin De Jong</li>
+    <li><b style="color: forestgreen;">Bruidspaar</b> + Oma</li>
+    <li><b style="color: forestgreen;">Bruidspaar</b> + Ouders Smit + Ouders De Jong</li>
+    <li><b style="color: forestgreen;">Bruidspaar</b> + Gezin Smit + Gezin De Jong</li>
 </ol>
 
 Smitjes
 <ol>
-    <li><b style="color: forestgreen;">Beide</b> + Gezin Smit</li>
+    <li><b style="color: forestgreen;">Bruidspaar</b> + Gezin Smit</li>
     <li><b style="color: deepskyblue;">Ruben</b> + Gezin Smit</li>
     <li><b style="color: deepskyblue;">Ruben</b> + Ouders Smit</li>
-    <li><b style="color: forestgreen;">Beide</b> + Ouders Smit</li>
-    <li><b style="color: forestgreen;">Beide</b> + Broer, zussen en partners</li>
+    <li><b style="color: forestgreen;">Bruidspaar</b> + Ouders Smit</li>
+    <li><b style="color: forestgreen;">Bruidspaar</b> + Broer, zussen en partners</li>
     <li><b style="color: deepskyblue;">Ruben</b> + Broer en zussen</li>
     <li><b style="color: deepskyblue;">Ruben</b> + Marle en Jeske</li>
     <li><b style="color: deepskyblue;">Ruben</b> + Tijmen</li>
@@ -39,11 +39,11 @@ Smitjes
 
 De Jong
 <ol>
-    <li><b style="color: forestgreen;">Beide</b> + Gezin De Jong</li>
+    <li><b style="color: forestgreen;">Bruidspaar</b> + Gezin De Jong</li>
     <li><b style="color: violet;">Jeanine</b> + Gezin De Jong</li>
     <li><b style="color: violet;">Jeanine</b> + Ouders De Jong</li>
-    <li><b style="color: forestgreen;">Beide</b> + Ouders De Jong</li>
-    <li><b style="color: forestgreen;">Beide</b> + Broers, zus en partners</li>
+    <li><b style="color: forestgreen;">Bruidspaar</b> + Ouders De Jong</li>
+    <li><b style="color: forestgreen;">Bruidspaar</b> + Broers, zus en partners</li>
     <li><b style="color: violet;">Jeanine</b> + Broers en zus</li>
     <li><b style="color: violet;">Jeanine</b> + Broers</li>
     <li><b style="color: violet;">Jeanine</b> + Rosalynn</li>
@@ -52,8 +52,16 @@ De Jong
 ## Dan de vrienden
 <ol>
     <li>H.U.P.</li>
-    <li>Baja en Barrie</li>
+        <ul>
+           <li>met <b style="color: forestgreen;">Bruidspaar</b></li>
+           <li>met <b style="color: violet;">Jeanine</b></li>
+        </ul>
+    <li><b style="color: violet;">Jeanine</b> + Baja en Barrie</li>
     <li>M&M's</li>
+        <ul>
+            <li><b style="color: forestgreen;">Bruidspaar</b> met partners</li>
+            <li><b style="color: violet;">Jeanine</b> en de dames</li>
+        </ul>
     <li>Josanne en Olaf</li>
     <li>Ruben en Boris</li>
     <li>Ken en Hanneke</li>
@@ -61,8 +69,11 @@ De Jong
     <li>Casper en Iris</li>
     <li>Bart en Jolien</li>
     <li>Lukas en Mirjam</li>
-    <li>De Jongens + aanhang</li>
-    <li>De Jongens (enkel mannen)</li>
+    <li>De Jongens</li>        
+        <ul>
+            <li><b style="color: forestgreen;">Bruidspaar</b> met partners</li>
+            <li><b style="color: deepskyblue;">Ruben</b> en de heren</li>
+        </ul>
     <li>Senaat</li>
     <li>Dennis</li>
     <li>Suzanne en Ruben</li>
