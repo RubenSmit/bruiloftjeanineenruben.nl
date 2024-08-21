@@ -43,12 +43,12 @@ En trek uiteraard je mooiste smoeltje op de foto ;)
 ## Dan de vrienden
 **Jeanine**
 1. H.U.P.
-   1. <b style="color: MediumPurple;">Bruidspaar</b> en H.U.P.
-   1. <b style="color: violet;">Jeanine</b> en H.U.P.
+   * <b style="color: MediumPurple;">Bruidspaar</b> en H.U.P.
+   * <b style="color: violet;">Jeanine</b> en H.U.P.
 1. Baja en Barrie
 1. M&M's
-    1. <b style="color: MediumPurple;">Bruidspaar</b> met partners
-    1. <b style="color: violet;">Jeanine</b> en de dames
+    * <b style="color: MediumPurple;">Bruidspaar</b> met partners
+    * <b style="color: violet;">Jeanine</b> en de dames
 1. Josanne en Olaf
 1. Ruben en Boris
 
@@ -58,9 +58,9 @@ En trek uiteraard je mooiste smoeltje op de foto ;)
 1. Casper en Iris
 1. Bart en Jolien
 1. Lukas en Mirjam
-1. De Jongens        
-    1. <b style="color: MediumPurple;">Bruidspaar</b> met partners
-    1. <b style="color: deepskyblue;">Ruben</b> en de heren
+1. De Jongens
+   * <b style="color: MediumPurple;">Bruidspaar</b> met partners
+   * <b style="color: deepskyblue;">Ruben</b> en de heren
 1. Senaat
 1. Dennis
 1. Suzanne en Ruben
