@@ -10,71 +10,58 @@ Luister dus goed naar instructies van de ceremoniemeesters.
 En trek uiteraard je mooiste smoeltje op de foto ;)
 
 ## Eerst met zn allen
-<ol>
-    <li>Alle drie-daagsegasten</li>
-    <li>Alle drie-daagsegasten en alle daggasten</li>
-    <li>Alle C.S.R.'ers</li>
-    <li>Alle Alphanen</li>
-</ol>
-
+1. Alle drie-daagsegasten
+1. Alle drie-daagsegasten en alle daggasten
+1. Alle C.S.R.'ers
+1. Alle Alphanen
 
 ## Dan de gezinnen
-<ol>
-    <li><b style="color: MediumPurple;">Bruidspaar</b> + Oma</li>
-    <li><b style="color: MediumPurple;">Bruidspaar</b> + Ouders Smit + Ouders De Jong</li>
-    <li><b style="color: MediumPurple;">Bruidspaar</b> + Gezin Smit + Gezin De Jong</li>
-</ol>
+1. <b style="color: MediumPurple;">Bruidspaar</b> + Oma
+1. <b style="color: MediumPurple;">Bruidspaar</b> + Ouders Smit + Ouders De Jong
+1. <b style="color: MediumPurple;">Bruidspaar</b> + Gezin Smit + Gezin De Jong
 
-Smitjes
-<ol>
-    <li><b style="color: MediumPurple;">Bruidspaar</b> + Gezin Smit</li>
-    <li><b style="color: deepskyblue;">Ruben</b> + Gezin Smit</li>
-    <li><b style="color: deepskyblue;">Ruben</b> + Ouders Smit</li>
-    <li><b style="color: MediumPurple;">Bruidspaar</b> + Ouders Smit</li>
-    <li><b style="color: MediumPurple;">Bruidspaar</b> + Broer, zussen en partners</li>
-    <li><b style="color: deepskyblue;">Ruben</b> + Broer en zussen</li>
-    <li><b style="color: deepskyblue;">Ruben</b> + Marle en Jeske</li>
-    <li><b style="color: deepskyblue;">Ruben</b> + Tijmen</li>
-</ol>
+**Smitjes**
+1. <b style="color: MediumPurple;">Bruidspaar</b> + Gezin Smit
+1. <b style="color: deepskyblue;">Ruben</b> + Gezin Smit
+1. <b style="color: deepskyblue;">Ruben</b> + Ouders Smit
+1. <b style="color: MediumPurple;">Bruidspaar</b> + Ouders Smit
+1. <b style="color: MediumPurple;">Bruidspaar</b> + Broer, zussen en partners
+1. <b style="color: deepskyblue;">Ruben</b> + Broer en zussen
+1. <b style="color: deepskyblue;">Ruben</b> + Marle en Jeske
+1. <b style="color: deepskyblue;">Ruben</b> + Tijmen
 
-De Jong
-<ol>
-    <li><b style="color: MediumPurple;">Bruidspaar</b> + Gezin De Jong</li>
-    <li><b style="color: violet;">Jeanine</b> + Gezin De Jong</li>
-    <li><b style="color: violet;">Jeanine</b> + Ouders De Jong</li>
-    <li><b style="color: MediumPurple;">Bruidspaar</b> + Ouders De Jong</li>
-    <li><b style="color: MediumPurple;">Bruidspaar</b> + Broers, zus en partners</li>
-    <li><b style="color: violet;">Jeanine</b> + Broers en zus</li>
-    <li><b style="color: violet;">Jeanine</b> + Broers</li>
-    <li><b style="color: violet;">Jeanine</b> + Rosalynn</li>
-</ol>
+**De Jong**
+1. <b style="color: MediumPurple;">Bruidspaar</b> + Gezin De Jong
+1. <b style="color: violet;">Jeanine</b> + Gezin De Jong
+1. <b style="color: violet;">Jeanine</b> + Ouders De Jong
+1. <b style="color: MediumPurple;">Bruidspaar</b> + Ouders De Jong
+1. <b style="color: MediumPurple;">Bruidspaar</b> + Broers, zus en partners
+1. <b style="color: violet;">Jeanine</b> + Broers en zus
+1. <b style="color: violet;">Jeanine</b> + Broers
+1. <b style="color: violet;">Jeanine</b> + Rosalynn
 
 ## Dan de vrienden
-<ol>
-    <li>H.U.P.</li>
-        <ul>
-           <li><b style="color: MediumPurple;">Bruidspaar</b> en H.U.P.</li>
-           <li><b style="color: violet;">Jeanine</b> en H.U.P.</li>
-        </ul>
-    <li>Baja en Barrie</li>
-    <li>M&M's</li>
-        <ul>
-            <li><b style="color: MediumPurple;">Bruidspaar</b> met partners</li>
-            <li><b style="color: violet;">Jeanine</b> en de dames</li>
-        </ul>
-    <li>Josanne en Olaf</li>
-    <li>Ruben en Boris</li>
-    <li>Ken en Hanneke</li>
-    <li>Matthijs en Sanne</li>
-    <li>Casper en Iris</li>
-    <li>Bart en Jolien</li>
-    <li>Lukas en Mirjam</li>
-    <li>De Jongens</li>        
-        <ul>
-            <li><b style="color: MediumPurple;">Bruidspaar</b> met partners</li>
-            <li><b style="color: deepskyblue;">Ruben</b> en de heren</li>
-        </ul>
-    <li>Senaat</li>
-    <li>Dennis</li>
-    <li>Suzanne en Ruben</li>
-</ol>
+**Jeanine**
+1. H.U.P.
+   1. <b style="color: MediumPurple;">Bruidspaar</b> en H.U.P.
+   1. <b style="color: violet;">Jeanine</b> en H.U.P.
+1. Baja en Barrie
+1. M&M's
+    1. <b style="color: MediumPurple;">Bruidspaar</b> met partners
+    1. <b style="color: violet;">Jeanine</b> en de dames
+1. Josanne en Olaf
+1. Ruben en Boris
+
+**Ruben**
+1. Ken en Hanneke
+1. Matthijs en Sanne
+1. Casper en Iris
+1. Bart en Jolien
+1. Lukas en Mirjam
+1. De Jongens        
+    1. <b style="color: MediumPurple;">Bruidspaar</b> met partners
+    1. <b style="color: deepskyblue;">Ruben</b> en de heren
+1. Senaat
+1. Dennis
+1. Suzanne en Ruben
+
