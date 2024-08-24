@@ -9,7 +9,7 @@ Ben je uitgenodigd voor de woensdag, woensdag-donderdag of dinsdag-donderdag? Kl
 {% include timeline.html %}
 
 ## Locatie
-[*De Eik, Coevorderweg 39, Slagharen*](https://maps.app.goo.gl/V8a8CPPXdgEKQNsh9)
+[*De Eik, Coevorderweg 39, Slagharen*](https://maps.app.goo.gl/V8a8CPPXdgEKQNsh9) (lees meer over [parkeren bij de locatie](https://bruiloftjeanineenruben.nl/praktische_informatie#parkeren))
 
 Onze hele bruiloft zal plaatsvinden op De Eik in Slagharen, een voormalige kloosterschool die omgebouwd is naar een schitterende trouwlocatie.
 
