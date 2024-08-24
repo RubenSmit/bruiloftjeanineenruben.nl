@@ -1,5 +1,5 @@
 ---
-title: Extra info voor de driedaagse gasten
+title: Laatste info voor de driedaagse gasten
 description: Meer informatie over de paklijst, kamerindeling, en kleine details van de bruiloft.
 layout: default
 ---
