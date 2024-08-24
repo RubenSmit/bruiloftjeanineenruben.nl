@@ -4,7 +4,7 @@ description: Hier vind je welke kamer welke gasten heeft.
 layout: default
 ---
 
-## Drie dagen? Wat gaan jullie doen dan?
+## Uw beddeke vindt ge hier: 
 
 | Slaapkamernr | Gasten |
 | 1 | Martijn en Klaske |
