@@ -34,7 +34,7 @@ We hadden een grove verdeling in gedachten, maar als je het niet ziet zitten, ze
 - Broers/Zussen Smit en De Jong: Daggasten de camping wijzen en auto's strak laten inparkeren
 - M&M's: ontbijt opruimen
 
-## Donderdag
+## Donderdag opruimen en (optioneel) pretpark + na-borrel
 Donderdag gaan Ruben en Jeanine sws naar Slagharen. Kom vooral gezellig mee! We gaan zien hoe brak/moe we zijn, maar wordt vast grappig. Er zijn plenty AH-spaarkaarten in omloop met 2e kaartje gratis bij Slagharen, dus ga mee en praat iemand om :)
 Mochten er nog wat fustjes over zijn, is daarna uiteraard ook het uitgelezen moment om ons van de open fusten af te helpen.
 
@@ -42,4 +42,5 @@ Voordat we naar Slagharen gaan, willen we de locatie nog opruimen. Dat is voorna
 
 ## En vooral
 Wij hebben er echt megaveel zin in :)
+
 xx Ruben en Jeanine
