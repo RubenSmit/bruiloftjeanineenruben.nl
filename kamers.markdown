@@ -29,7 +29,7 @@ layout: default
 ![Een plattegrond van de kamerindeling - begane grond, Huize de Eik in Slagharen](/images/begane_grond.png)
 _Begane grond_
 
-![Een plattegrond van de kamerindeling - eerste verdieping, Huize de Eik in Slagharen](/images/eerste_verdieping.png)
+![Een plattegrond van de kamerindeling - eerste verdieping, Huize de Eik in Slagharen](/images/eerste_verdieping2.png)
 _Eerste verdieping_
 
 ## Kamers met dubbelfunctie
