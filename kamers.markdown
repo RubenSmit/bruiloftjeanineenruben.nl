@@ -27,4 +27,4 @@ layout: default
 | Camper | Casper en Iris |
 
 ## Kamers met dubbelfunctie
-Er zijn twee toiletten voor de extra gasten van woensdag/donderdag. Omdat we verwachten dat dit wel wat magertjes gaat worden tijdens de receptie, willen we de badkamer van kamer 1 dan tijdelijk gebruiken als damestoilet, en de badkamer van kamer 4 als herentoilet.
+Er zijn twee toiletten voor de extra gasten van woensdag/donderdag. Omdat we verwachten dat dit wel wat magertjes gaat worden tijdens de receptie, willen we de badkamer van kamer 1 dan tijdelijk gebruiken als extra damestoilet, en de badkamer van kamer 4 als extra herentoilet.
