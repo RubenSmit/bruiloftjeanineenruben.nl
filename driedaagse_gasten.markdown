@@ -22,7 +22,7 @@ De groepsfoto's zullen woensdag na de lunch, voor de kerkdienst genomen worden. 
 
 ## Woensdagochtend
 Zouden jullie woensdagochtend tussen 10:00 en 11:00 willen helpen met spullen klaarzetten?
-Zeker de dames: voel je niet verplicht. Als je nog even nodig hebt voor je haar, [doe dan vooral rustig aan](https://www.youtube.com/watch?v=32Oc2d_3yEk).
+PS dames: voel je niet verplicht. Als je dat uurtje nodig hebt voor je haar, [doe dat dan vooral rustig aan](https://www.youtube.com/watch?v=32Oc2d_3yEk).
 
 We hadden een grove verdeling in gedachten, maar als je het niet ziet zitten, zeg het dan even tegen de ceremoniemeesters.
 - Ruben vdB, Yuki, Po, Matthijs, Ken: Techniek en band
