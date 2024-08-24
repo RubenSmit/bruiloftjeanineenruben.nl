@@ -26,7 +26,7 @@ layout: default
 | 19 | Marle en Janto, Josanne en Olaf |
 | Camper | Casper en Iris |
 
-![Een plattegrond van de kamerindeling - begane grond, Huize de Eik in Slagharen](/images/Begane grond.png)
+![Een plattegrond van de kamerindeling - begane grond, Huize de Eik in Slagharen](/images/begane_grond.png)
 
 ![Een plattegrond van de kamerindeling - eerste verdieping, Huize de Eik in Slagharen](/images/Eerste verdieping.png)
 
