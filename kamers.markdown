@@ -26,6 +26,10 @@ layout: default
 | 19 | Marle en Janto, Josanne en Olaf |
 | Camper | Casper en Iris |
 
+![Een plattegrond van de kamerindeling - begane grond, Huize de Eik in Slagharen](/images/Begane grond.png)
+
+![Een plattegrond van de kamerindeling - eerste verdieping, Huize de Eik in Slagharen](/images/Eerste verdieping.png)
+
 ## Kamers met dubbelfunctie
 Naast de kamers met badkamers, zijn er op de locatie nog twee extra toiletten. Slechts twee toiletten voor de 60 daggasten en 60 kerk/receptie-gasten, dat wordt wat magertjes. Om lange rijen te voorkomen, willen we tijdens de receptie twee badkamers inzetten als extra toiletten. De badkamer van kamer 1 is dan tijdelijk te gebruiken als extra damestoilet, en de badkamer van kamer 4 als extra herentoilet.
 
