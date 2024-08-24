@@ -12,13 +12,13 @@ De aankomst staat op 11:00, maar dat is meer een vrije vertaling voor inloop van
 Qua kleding bij aankomst: het is aan het begin inloop en een tour over de locatie. Er is daar genoeg tijd om je nog leuk om te kleden voor het burgerlijk huwelijk. Dus tip: trek bij een lange autorit comfi auto-kleding aan. 
 
 ## Allergieën
-Mocht je een allergie hebben, check dan voor het eten de <u>[allergieën-pagina](/allergieen)</u> even. Hier komt per maaltijd de ingrediëntenlijst en welk gerecht je wel of niet kunt eten. Zeker dinsdagavond kan dat handig zijn.
+Mocht je een allergie hebben, check dan voor het eten de [allergieën-pagina](/allergieen) even. Hier komt per maaltijd de ingrediëntenlijst en welk gerecht je wel of niet kunt eten. Zeker dinsdagavond kan dat handig zijn.
 
 ## Kamerindeling
-Voor de <u>[kamerindeling](/kamers)</u> hebben we een plattegrondje gemaakt met waar je kamer is en wie er in je kamer slapen.
+Voor de [kamerindeling](/kamers) hebben we een plattegrondje gemaakt met waar je kamer is en wie er in je kamer slapen.
 
 ## Groepsfoto's
-De groepsfoto's zullen woensdag na de lunch, voor de kerkdienst genomen worden. Om het zo soepel en efficiënt mogelijk te laten verlopen, kun je hier alvast de <u>[fotovolgorde](/fotovolgorde)</u> bekijken.
+De groepsfoto's zullen woensdag na de lunch, voor de kerkdienst genomen worden. Om het zo soepel en efficiënt mogelijk te laten verlopen, kun je hier alvast de [fotovolgorde](/fotovolgorde) bekijken.
 
 ## Woensdagochtend
 Zouden jullie woensdagochtend tussen 10:00 en 11:00 willen helpen met spullen klaarzetten?
@@ -34,4 +34,12 @@ We hadden een grove verdeling in gedachten, maar als je het niet ziet zitten, ze
 - Broers/Zussen Smit en De Jong: Daggasten de camping wijzen en auto's strak laten inparkeren
 - M&M's: ontbijt opruimen
 
-                                                                                                             
+## Donderdag
+Donderdag gaan Ruben en Jeanine sws naar Slagharen. Kom vooral gezellig mee! We gaan zien hoe brak/moe we zijn, maar wordt vast grappig. Er zijn plenty AH-spaarkaarten in omloop met 2e kaartje gratis bij Slagharen, dus ga mee en praat iemand om :)
+Mochten er nog wat fustjes over zijn, is daarna uiteraard ook het uitgelezen moment om ons van de open fusten af te helpen.
+
+Voordat we naar Slagharen gaan, willen we de locatie nog opruimen. Dat is voornamelijk alle decoratiespullen en techniek weer in de busjes/auto's zetten en de locatie veegschoon achterlaten. Verdere schoonmaak wordt door de locatie gedaan.
+
+## En vooral
+Wij hebben er echt megaveel zin in :)
+xx Ruben en Jeanine
