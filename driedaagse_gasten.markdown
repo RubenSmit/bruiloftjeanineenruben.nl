@@ -8,7 +8,7 @@ layout: default
 Vergeet je beddengoed niet! Er staan bedden met kussens en dekens klaar, maar de lakens moet je zelf meenemen. Als je ze vergeet, zijn ze te huren voor 15€ bij de locatie.
 
 ## Aankomst
-De aankomst staat op 11:00, maar dat is meer een vrije vertaling voor inloop vanaf 11:00. Komt het beter uit er tijdens de lunch, of zelfs pas bij het burgerlijk huwelijk er te zijn? Geen probleem. Geef het wel even door aan de ceremoniemeesters.
+De aankomst staat op 11:00, maar dat mag vrij vertaald worden voor inloop vanaf 11:00. Komt het beter uit om pas tijdens de lunch, of zelfs pas bij het burgerlijk huwelijk er te zijn? Geen probleem. Geef het wel even door aan de ceremoniemeesters.
 Qua kleding bij aankomst: het is aan het begin inloop en een tour over de locatie. Er is daar genoeg tijd om je nog leuk om te kleden voor het burgerlijk huwelijk. Dus tip: trek bij een lange autorit comfi auto-kleding aan. 
 
 ## Allergieën
