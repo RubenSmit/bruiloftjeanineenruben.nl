@@ -6,7 +6,7 @@ layout: default
 
 ## Uw beddeke vindt ge hier: 
 
-| Slaapkamernr | Gasten |
+| **Slaapkamernr** | **Gasten** |
 | 1 | Martijn en Klaske |
 | 2 | Rosalynn |
 | 3 | Arnaut, Justin, Mark, Bram |
