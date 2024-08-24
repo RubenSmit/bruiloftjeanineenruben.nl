@@ -8,13 +8,13 @@ layout: default
 Vergeet je beddengoed niet! Er staan bedden met kussens en dekens klaar, maar de lakens moet je zelf meenemen. Als je ze vergeet, zijn ze te huren voor 15€ bij de locatie.
 
 ## Allergieën
-Mocht je een allergie hebben, check dan voor het eten deze pagina even. Hier komt per maaltijd de ingrediëntenlijst en welk gerecht je wel of niet kunt eten. Zeker dinsdagavond kan dat handig zijn.
+Mocht je een allergie hebben, check dan voor het eten de <u>[allergieën-pagina](/allergieen)</u> even. Hier komt per maaltijd de ingrediëntenlijst en welk gerecht je wel of niet kunt eten. Zeker dinsdagavond kan dat handig zijn.
 
 ## Kamerindeling
-Voor de [kamerindeling](/kamers) hebben we een plattegrondje gemaakt met waar je kamer is en wie er in je kamer slapen.
+Voor de <u>[kamerindeling](/kamers)</u> hebben we een plattegrondje gemaakt met waar je kamer is en wie er in je kamer slapen.
 
 ## Groepsfoto's
-De groepsfoto's zullen woensdag na de lunch, voor de kerkdienst genomen worden. Om het zo soepel en efficiënt mogelijk te laten verlopen, kun je hier alvast de [fotovolgorde](/fotovolgorde) bekijken.
+De groepsfoto's zullen woensdag na de lunch, voor de kerkdienst genomen worden. Om het zo soepel en efficiënt mogelijk te laten verlopen, kun je hier alvast de <u>[fotovolgorde](/fotovolgorde)</u> bekijken.
 
 ## Woensdagochtend
 Zouden jullie woensdagochtend tussen 10:00 en 11:00 willen helpen met spullen klaarzetten?
