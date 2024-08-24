@@ -14,7 +14,7 @@ layout: default
 | 5 | Rutger en Paulien |
 | 6 | Dennis, Len, Arnoud, Ronald |
 | 9 | Yuki, Po, Tika, Huds|
-| 10 | Lukas en Mirjam, Bart en Jolien, Mathijs en Sanne |
+| 10 | Lukas en Mirjam, Bart en Jolien, Matthijs en Sanne |
 | 11 | Ouders De Jong |
 | 12 | Arende en Wouter |
 | 13 | Suzanne en Ruben |
