@@ -18,6 +18,7 @@ Mocht je een verdere richtlijn voor de diverse dagen fijn vinden: Trek dinsdag/d
 
 ### Overnachten in De Eik
 Voor de gasten die er dinsdag tot donderdag bij zijn, staat een bed klaar in De Eik. 
+
 **Paklijst**: Je bed heeft een deken en een kussen, maar neem je zelf beddengoed mee?
 
 ### Kamperen achter De Eik
