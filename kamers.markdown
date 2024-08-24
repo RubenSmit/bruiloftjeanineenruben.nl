@@ -33,5 +33,5 @@ _Begane grond_
 _Eerste verdieping_
 
 ## Kamers met dubbelfunctie
-Naast de kamers met badkamers, zijn er op de locatie nog twee extra toiletten. Slechts twee toiletten voor de 60 daggasten en 60 kerk/receptie-gasten, dat wordt wat magertjes. Om lange rijen te voorkomen, willen we tijdens de receptie twee badkamers inzetten als extra toiletten. De badkamer van kamer 1 is dan tijdelijk te gebruiken als extra damestoilet, en de badkamer van kamer 4 als extra herentoilet.
+Naast de kamers met badkamers, zijn er op de locatie nog twee extra toiletten. Slechts twee toiletten voor de 60 daggasten en 60 kerk/receptie-gasten, dat wordt wat magertjes. Om lange rijen te voorkomen, willen we tijdens de receptie twee badkamers inzetten als extra toiletten. De badkamer van kamer 1 is dan tijdelijk te gebruiken als extra damestoilet, en de badkamer van kamer 6 als extra herentoilet.
 
