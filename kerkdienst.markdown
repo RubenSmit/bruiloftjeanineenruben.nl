@@ -7,5 +7,5 @@ layout: default
 <img src="images/kerkdienst-opstelling.svg" class="w-full">
 _Schets van de opstelling incl. de 200 stoelen en techniek_
 
-Naast de stoelen en techniek, is er ook nog de nodige decoratie die er op een mooie manier bijgezet mag worden, waaronder de 40 plantjes die langs het gangpad mogen.
+Voor de kerkdienst kunnen de stoelen en techniek opgezet worden zoals op de schets. Daarnaast is het de bedoeling dat er ook nog een tafel+lessenaar, knielbank, bankje, bos bloemen op een kratje, backdrop, plantjes langs het gangpad en wat overige decoratie bijgezet worden.
 
