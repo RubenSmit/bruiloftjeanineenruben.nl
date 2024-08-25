@@ -1,0 +1,65 @@
+<div class="custom w-full h-full table-fixed my-6 border-collapse text-sm sm:text-base md:text-xl">
+  <div class="p-1 bg-secondary text-white h-full">
+
+<h3 id="diner-dinsdag">Diner dinsdag</h3>
+<p>Het hoofdgerecht bevat het volgende</p>
+<p><strong>Kofta spies</strong>  </p>
+<blockquote>
+<p>   ❌ Bevat vlees<br>    ✔️ Bevat geen koemelk, lactose, walnoten, pinda’s en noten, gluten, tarwe<br>    ✔️ Geschikt voor zwangerschap en borstvoeding. Bevat een kleine hoeveelheid kaneel en peper  </p>
+</blockquote>
+<p><strong>Falafel spies</strong>  </p>
+<blockquote>
+<p>   ✔️ Vegetarisch alternatief voor kofta<br>    ❌ Bevat gluten, tarwe<br>    ✔️ Bevat geen vlees, koemelk, lactose, walnoten, pinda’s en noten<br>    ✔️ Geschikt voor zwangerschap en borstvoeding    </p>
+</blockquote>
+<p><strong>Halloumi &amp; perzik</strong>  </p>
+<blockquote>
+<p>   ❌ Bevat koemelk en lactose<br>    ✔️ Bevat geen vlees, walnoten, pinda’s en noten, gluten, tarwe<br>    ✔️ Geschikt voor zwangerschap en borstvoeding  </p>
+</blockquote>
+<p><strong>Aardappels</strong>  </p>
+<blockquote>
+<p>   ✔️ Bevat geen vlees, koemelk, lactose, walnoten, pinda’s en noten, gluten, tarwe<br>    ✔️ Geschikt voor zwangerschap en borstvoeding  </p>
+</blockquote>
+<p><strong>Griekse salade</strong>  </p>
+<blockquote>
+<p>   ✔️ Koemelk en lactose (Feta wordt apart geserveerd)<br>    ✔️ Bevat geen vlees, walnoten, pinda’s en noten, gluten, tarwe<br>    ✔️ Geschikt voor zwangerschap en borstvoeding  </p>
+</blockquote>
+<p><strong>Pitabrood</strong>  </p>
+<blockquote>
+<p>   ❌ Bevat gluten, tarwe<br>    ✔️ Bevat geen vlees, koemelk, lactose, walnoten, pinda’s en noten<br>    ✔️ Geschikt voor zwangerschap en borstvoeding  </p>
+</blockquote>
+<p><strong>Ouzo</strong>  </p>
+<blockquote>
+<p>   ✔️ Bevat geen vlees, koemelk, lactose, walnoten, pinda’s en noten, gluten, tarwe<br>    ❌ Ongeschikt bij zwangerschap en borstvoeding  </p>
+</blockquote>
+<p><strong>Dolmades</strong>  </p>
+<blockquote>
+<p>   ✔️ Bevat geen vlees, koemelk, lactose, walnoten, pinda’s en noten, gluten, tarwe<br>    ✔️ Geschikt voor zwangerschap en borstvoeding  </p>
+</blockquote>
+<p><strong>Vijgen</strong>  </p>
+<blockquote>
+<p>   ❌ Sporen van walnoot, pinda’s en noten<br>    ✔️ Bevat geen vlees, koemelk, lactose, gluten, tarwe<br>    ✔️ Geschikt voor zwangerschap en borstvoeding  </p>
+</blockquote>
+<p><strong>Gemengde olijven</strong>   </p>
+<blockquote>
+<p>   ✔️ Bevat geen vlees, koemelk, lactose, walnoten, pinda’s en noten, gluten, tarwe<br>    ✔️ Geschikt voor zwangerschap en borstvoeding  </p>
+</blockquote>
+<p><strong>Humus</strong>  </p>
+<blockquote>
+<p>   ✔️ Bevat geen vlees, koemelk, lactose, walnoten, pinda’s en noten, gluten, tarwe<br>    ✔️ Geschikt voor zwangerschap en borstvoeding  </p>
+</blockquote>
+<p><strong>Tzatziki</strong>  </p>
+<blockquote>
+<p>   ❌ Bevat koemelk en lactose<br>    ✔️ Bevat geen vlees, walnoten, pinda’s en noten, gluten, tarwe<br>    ✔️ Geschikt voor zwangerschap en borstvoeding  </p>
+</blockquote>
+<p>Het dessert bevat het volgende</p>
+<p><strong>Gewone variant</strong>  </p>
+<blockquote>
+<p>   ❌ Bevat koemelk en lactose<br>    ✔️ Bevat geen walnoten, pinda’s en noten, gluten, tarwe<br>    ✔️ Geschikt voor zwangerschap en borstvoeding  </p>
+</blockquote>
+<p><strong>Melkvrije variant</strong>  </p>
+<blockquote>
+<p>   ✔️ Melkvrij, plantaardig alternatief<br>    ✔️ Bevat geen koemelk, lactose, walnoten, pinda’s en noten, gluten, tarwe<br>    ✔️ Geschikt voor zwangerschap en borstvoeding  </p>
+</blockquote>
+
+</div>
+</div>
