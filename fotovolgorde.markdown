@@ -65,7 +65,7 @@ En trek uiteraard je mooiste smoeltje op de foto ;)
 1. Dennis
 1. Suzanne en Ruben
 
-**Daggasten**
+**Daggasten**   
 Wellicht dat het fotomoment te vol wordt, dan schuiven we dit naar later tijdens de receptie of de avond. Want we willen we nog heel graag met jullie op de foto :)
 1. Suzanne en Mark
 1. Hilke en Jannick
