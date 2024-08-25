@@ -5,7 +5,7 @@ layout: default
 ---
 
 ## Paklijst: Beddengoed
-Vergeet je beddengoed niet! Er staan bedden met kussens en dekens klaar, maar de lakens moet je zelf meenemen. Als je ze vergeet, zijn ze te huren voor 15€ bij de locatie.
+Vergeet je beddengoed niet! Er staan bedden met kussens en dekens klaar, maar de lakens moet je zelf meenemen. Als je ze vergeet, zijn ze te huren voor 15€ bij de locatie. Ook andere dingen als handdoeken, shampoo en tandenborstel zijn handig om mee te nemen.
 
 ## Aankomst
 De aankomst staat op 11:00, en wij zijn er dan helemaal klaar voor. Maar als dat je beter uitkomt, mag het vrij vertaald worden voor inloop vanaf 11:00. Komt het beter uit om pas tijdens de lunch, of zelfs pas vanaf het burgerlijk huwelijk erbij te zijn? Geen probleem. Geef het wel even door aan de [ceremoniemeesters](mailto:ceremoniemeesters@bruiloftjeanineenruben.nl) (mocht je dat nog niet gedaan hebben).
