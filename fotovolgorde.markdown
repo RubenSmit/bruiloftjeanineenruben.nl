@@ -61,7 +61,28 @@ En trek uiteraard je mooiste smoeltje op de foto ;)
 1. De Jongens
    * <b style="color: MediumPurple;">Bruidspaar</b> met partners
    * <b style="color: deepskyblue;">Ruben</b> en de heren
-1. Senaat
+1. Senaat  
 1. Dennis
 1. Suzanne en Ruben
 
+**Daggasten**   
+Wellicht dat het fotomoment te vol wordt, dan schuiven we dit naar later tijdens de receptie of de avond. Want we willen we nog heel graag met jullie op de foto :)
+1. Suzanne en Mark
+1. Hilke en Jannick
+1. Tappers
+1. Jeanines kring
+1. Jeanines bestuur
+1. Christel en Elsbeth
+1. Kirstin, Nelleke, Levi
+1. Rebecca en Annah
+1. Oud-H.U.P.
+1. H.U.P. + pinguïns
+1. Ilse, Kaki, Timon, Lucas
+1. Stijn
+1. Mirte
+1. Jasmijn
+1. Mattias
+1. Renske, Deveny, Josanne
+1. Robert en Michel
+1. Karst-Jan, Casper, Rutger, Paulien
+1. Mart, Dennis, Len en Lucas
