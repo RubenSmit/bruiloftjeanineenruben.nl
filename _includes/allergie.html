@@ -1,8 +1,10 @@
 <div class="w-full mt-6 text-center">Bekijk de allergie-informatie voor:</div>
+
+
 <div class="w-full my-2 flex justify-center">
-  <button class="py-2 px-4 border-t-2 border-b-2 border-l-2 rounded-l hover:bg-secondary hover:text-white hover:border-secondary border-secondary bg-secondary text-white" onclick="showProgram('dinsdagdiner')">Diner dinsdag</button>
-  <button class="py-2 px-4 border-t-2 border-b-2 hover:bg-secondary hover:text-white hover:border-secondary border-primary" onclick="showProgram('lunch')">Lunch woensdag</button>
-  <button class="py-2 px-4 border-t-2 border-b-2 border-r-2 rounded-r hover:bg-secondary hover:text-white hover:border-secondary border-primary" onclick="showProgram('woensdagdiner')">Diner woensdag</button>
+  <button class="py-2 px-4 border-t-2 border-b-2 border-l-2 rounded-l hover:bg-secondary hover:text-white hover:border-secondary border-secondary bg-secondary text-white" data-timeline-button="dinsdagdiner" onclick="changeProgram('dinsdagdiner')">Diner dinsdag</button>
+  <button class="py-2 px-4 border-t-2 border-b-2 hover:bg-secondary hover:text-white hover:border-secondary border-primary" data-timeline-button="lunch" onclick="changeProgram('lunch')">Lunch woensdag</button>button>
+  <button class="py-2 px-4 border-t-2 border-b-2 border-r-2 rounded-r hover:bg-secondary hover:text-white hover:border-secondary border-primary" data-timeline-button="woensdagdiner" onclick="changeProgram('woensdagdiner')">Diner woensdag</button>
 </div>
 
 
@@ -15,25 +17,4 @@
   Selecteer een eetmoment om de allergie-informatie te bekijken.
 </div>
 
-<!-- <script>
-function showProgram(type) {
-  const contentDiv = document.getElementById('program-content');
-  let content = '';
-
-  switch(type) {
-    case 'dinsdagdiner':
-      content = 'Dit is de allergie-informatie voor het diner op dinsdag.';
-      break;
-    case 'lunch':
-      content = 'Dit is de allergie-informatie voor de lunch op woensdag.';
-      break;
-    case 'woensdagdiner':
-      content = 'Dit is de allergie-informatie voor het diner op woensdag.';
-      break;
-    default:
-      content = 'Selecteer een eetmoment om de allergie-informatie te bekijken.';
-  }
-
-  contentDiv.innerHTML = content;
-} -->
 </script>
