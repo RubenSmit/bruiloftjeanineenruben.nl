@@ -58,11 +58,9 @@ Het hoofdgerecht bevat het volgende
     ✔️ Bevat geen vlees, koemelk, lactose, gluten, tarwe  
     ✔️ Geschikt voor zwangerschap en borstvoeding  
 
-
 **Gemengde olijven**   
 >    ✔️ Bevat geen vlees, koemelk, lactose, walnoten, pinda’s en noten, gluten, tarwe  
     ✔️ Geschikt voor zwangerschap en borstvoeding  
-
 
 **Humus**  
 >    ✔️ Bevat geen vlees, koemelk, lactose, walnoten, pinda’s en noten, gluten, tarwe  
@@ -73,6 +71,9 @@ Het hoofdgerecht bevat het volgende
     ✔️ Bevat geen vlees, walnoten, pinda’s en noten, gluten, tarwe  
     ✔️ Geschikt voor zwangerschap en borstvoeding  
 
+
+ 
+\
 Het dessert bevat het volgende
 
 **Gewone variant**  
