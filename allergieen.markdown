@@ -32,19 +32,19 @@ Deze pagina wordt nog aangevuld.
 ✔️ Geschikt voor zwangerschap en borstvoeding  
 
 
-**Griekse salade**
+**Griekse salade**  
 ✔️ Koemelk en lactose (Feta wordt apart geserveerd)  
 ✔️ Bevat geen vlees, walnoten, pinda’s en noten, gluten, tarwe  
 ✔️ Geschikt voor zwangerschap en borstvoeding  
 
 
-**Pitabrood**
-❌ Bevat gluten, tarwe
+**Pitabrood**  
+❌ Bevat gluten, tarwe  
 ✔️ Bevat geen vlees, koemelk, lactose, walnoten, pinda’s en noten  
 ✔️ Geschikt voor zwangerschap en borstvoeding  
 
 
-**Ouzo**
+**Ouzo**  
 ✔️ Bevat geen vlees, koemelk, lactose, walnoten, pinda’s en noten, gluten, tarwe   
 ❌ Ongeschikt bij zwangerschap en borstvoeding  
 
