@@ -17,7 +17,7 @@ Zelfgemaakte Libanese Flatbreads met gemarineerde kip, feta, salade, tzatziki, z
 **Vegetarische optie**  
 Zelfgemaakte Libanese flatbreads met falafel, feta, ingelegde uien en salade.
 
-**Allergenen**
+**Allergenen**   
 Lactose, gluten, koemelk.   
 
 Alle allergenen zijn los verwerkt in toppings, en apart uit te kiezen. Voor de mensen met gluten allergie is er een aparte portie gemaakt, hetzelfde geldt voor mensen met een lactose/melkeiwit allergie. 
