@@ -32,4 +32,4 @@ Vond je de DJ net zo goed als wij? Paul kan het erg waarderen als je een review 
 ![](/images/IMG-20240904-WA0014.jpg)
 ![](/images/IMG-20240904-WA0015.jpg)
 ![](/images/IMG-20240904-WA0016.jpg)
-![](/images/IMG-20240904-WA00)17.jpg)
+![](/images/IMG-20240904-WA0017.jpg)
