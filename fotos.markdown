@@ -1,6 +1,6 @@
 ---
 title: Foto's
-description: Nog even geduld, de foto's zijn er nog niet.
+description: De foto's zijn er! Snel kijken!
 layout: default
 ---
 
